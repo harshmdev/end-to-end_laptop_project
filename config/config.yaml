@@ -1,0 +1,9 @@
+artifacts: root
+
+data_gathering:
+  root_dir: artifacts/data_gathering
+  source_url: https://www.smartprix.com/laptops
+  local_data_file: artifacts/data_gathering/smartprix.html
+
+
+
