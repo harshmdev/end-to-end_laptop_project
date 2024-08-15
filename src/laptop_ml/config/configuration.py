@@ -1,6 +1,6 @@
 from laptop_ml.constants import *
 from laptop_ml.utils.common import read_yaml , create_directories
-from laptop_ml.entity import DataGatheringConfig
+from laptop_ml.entity import DataGatheringConfig , DataIngestionConfig , DataPreprocessingConfig
 
 class ConfigurationManager:
     def __init__(self,
@@ -22,3 +22,28 @@ class ConfigurationManager:
         )
 
         return data_gathering_config
+    
+    def get_data_ingestion_config(self)->DataIngestionConfig:
+        config=self.config.data_ingestion
+        create_directories([config.root_dir])
+
+        data_ingestion_config=DataIngestionConfig(
+            root_dir=config.root_dir,
+            html_file_path=config.html_file_path,
+            data_path=config.data_path
+
+        )
+
+        return data_ingestion_config
+    
+    def get_data_preprocessing_config(self)->DataPreprocessingConfig:
+        config=self.config.data_preprocessing
+        create_directories([config.root_dir])
+
+        data_preprocessing_config=DataPreprocessingConfig(
+            root_dir=config.root_dir,
+            raw_data_path=config.raw_data_path,
+            preprocessed_data_path=config.preprocessed_data_path
+        )
+
+        return data_preprocessing_config

@@ -3,6 +3,7 @@ pandas
 numpy
 selenium
 beautifulsoup4
+lxml
 tqdm
 PyYAML
 matplotlib
