@@ -18,3 +18,9 @@ class DataPreprocessingConfig:
     root_dir: Path
     raw_data_path: Path
     preprocessed_data_path: Path
+
+@dataclass(frozen=True)
+class DataCleaningConfig:
+    root_dir: Path
+    preprocessed_data_path: Path
+    cleaned_data_path: Path

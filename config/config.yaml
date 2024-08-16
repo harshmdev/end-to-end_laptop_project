@@ -15,5 +15,13 @@ data_preprocessing:
   raw_data_path: artifacts/data_ingestion/smartprix.csv
   preprocessed_data_path: artifacts/data_preprocessing/preprocessed_data.csv
 
+data_cleaning:
+  root_dir: artifacts/data_cleaning
+  preprocessed_data_path: artifacts/data_preprocessing/preprocessed_data.csv
+  cleaned_data_path: artifacts/data_cleaning/cleaned_data.csv
+
+
+  
+
 
 

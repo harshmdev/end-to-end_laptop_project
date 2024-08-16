@@ -1,6 +1,6 @@
 from laptop_ml.constants import *
 from laptop_ml.utils.common import read_yaml , create_directories
-from laptop_ml.entity import DataGatheringConfig , DataIngestionConfig , DataPreprocessingConfig
+from laptop_ml.entity import DataGatheringConfig , DataIngestionConfig , DataPreprocessingConfig , DataCleaningConfig
 
 class ConfigurationManager:
     def __init__(self,
@@ -47,3 +47,14 @@ class ConfigurationManager:
         )
 
         return data_preprocessing_config
+    
+    def get_data_cleaning_config(self)->DataCleaningConfig:
+        config=self.config.data_cleaning
+        create_directories([config.root_dir])
+
+        data_cleaning_config=DataCleaningConfig(
+            root_dir=config.root_dir,
+            preprocessed_data_path=config.preprocessed_data_path,
+            cleaned_data_path=config.cleaned_data_path
+        )
+        return data_cleaning_config
