@@ -1,6 +1,6 @@
 from laptop_ml.constants import *
 from laptop_ml.utils.common import read_yaml , create_directories
-from laptop_ml.entity import DataGatheringConfig , DataIngestionConfig , DataPreprocessingConfig , DataCleaningConfig
+from laptop_ml.entity import DataGatheringConfig , DataIngestionConfig , DataPreprocessingConfig , DataCleaningConfig , MissingValueImputationConfig
 
 class ConfigurationManager:
     def __init__(self,
@@ -58,3 +58,14 @@ class ConfigurationManager:
             cleaned_data_path=config.cleaned_data_path
         )
         return data_cleaning_config
+    
+    def get_missing_value_imputation_config(self)->MissingValueImputationConfig:
+        config=self.config.missing_value_imputation
+        create_directories([config.root_dir])
+
+        missing_value_imputation_config=MissingValueImputationConfig(
+            root_dir=config.root_dir,
+            after_cleaning=config.after_cleaning,
+            filled_data_path=config.filled_data_path
+        )
+        return missing_value_imputation_config

@@ -20,6 +20,10 @@ data_cleaning:
   preprocessed_data_path: artifacts/data_preprocessing/preprocessed_data.csv
   cleaned_data_path: artifacts/data_cleaning/cleaned_data.csv
 
+missing_value_imputation:
+  root_dir: artifacts/missing_value_imputation
+  after_cleaning: artifacts/data_cleaning/cleaned_data.csv
+  filled_data_path: artifacts/missing_value_imputation/after_missing_value_imputation.csv
 
   
 

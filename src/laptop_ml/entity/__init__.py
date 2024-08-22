@@ -24,3 +24,9 @@ class DataCleaningConfig:
     root_dir: Path
     preprocessed_data_path: Path
     cleaned_data_path: Path
+
+@dataclass(frozen=True)
+class MissingValueImputationConfig:
+    root_dir: Path
+    after_cleaning: Path
+    filled_data_path: Path
