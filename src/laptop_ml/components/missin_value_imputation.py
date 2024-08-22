@@ -102,6 +102,16 @@ class MissingValueImputation:
             else:
                 self.df.loc[i, "battery_capacity"] = mean_battery[6.0]
 
+        for i in self.df["battery_capacity"]:
+            if i<=45:
+                self.df["battery_capacity"]=self.df["battery_capacity"].replace(i,"low")
+            elif i>45 and i<=55:
+                self.df["battery_capacity"]=self.df["battery_capacity"].replace(i,"medium")
+            elif i>55 and i<=72:
+                self.df["battery_capacity"]=self.df["battery_capacity"].replace(i,"high")
+            else:
+                self.df["battery_capacity"]=self.df["battery_capacity"].replace(i,"very_high")
+
         self.df["core"].fillna(self.df["core"].mode()[0],inplace=True)
 
         for i in self.df[self.df["thread"].isnull()].index:

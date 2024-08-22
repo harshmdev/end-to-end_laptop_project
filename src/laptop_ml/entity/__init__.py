@@ -30,3 +30,9 @@ class MissingValueImputationConfig:
     root_dir: Path
     after_cleaning: Path
     filled_data_path: Path
+
+@dataclass(frozen=True)
+class FeatureSelectionConfig:
+    root_dir: Path
+    after_missing_value_imputation: Path
+    selected_data_path: Path
