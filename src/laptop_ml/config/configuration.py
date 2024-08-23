@@ -9,7 +9,7 @@ class ConfigurationManager:
         self.config=read_yaml(config_file_path)
         self.params=read_yaml(params_file_path)
 
-        create_directories([self.config.artifacts_root])
+        create_directories([self.config.artifacts])
 
     def get_data_gathering_config(self)->DataGatheringConfig:
         config=self.config.data_gathering
