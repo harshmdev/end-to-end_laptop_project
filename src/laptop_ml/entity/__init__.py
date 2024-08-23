@@ -36,3 +36,12 @@ class FeatureSelectionConfig:
     root_dir: Path
     after_missing_value_imputation: Path
     selected_data_path: Path
+
+@dataclass(frozen=True)
+class ModelSelectionConfig:
+    root_dir: Path
+    after_feature_selection: Path
+    model_path: Path
+    svr__C: int
+    svr__gamma: str
+    svr__kernel: str

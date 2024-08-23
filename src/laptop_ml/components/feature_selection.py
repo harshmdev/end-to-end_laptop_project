@@ -11,5 +11,5 @@ class FeatureSelection:
 
 
     def feature_selection(self):
-        export_df = self.df.drop(columns=["processor_brand","processor_model","processor_gen","thread","name","no_of_votes","rating","camera","thickness","usb3","bluetooth","inbuilt_microphone","usb2","hdd","display_port","pixel_width","thunderbolt","wifi","ethernet","num_of_cell","mcr","os","antiglare","type_c","fingerprint_sensor","aspect_ratio","cache"])
+        export_df = self.df.drop(columns=["processor_brand","processor_model","processor_gen","thread","name","no_of_votes","rating","camera","thickness","usb3","bluetooth","inbuilt_microphone","usb2","hdd","display_port","pixel_width","pixel_height","thunderbolt","wifi","ethernet","num_of_cell","mcr","os","antiglare","type_c","fingerprint_sensor","aspect_ratio","cache"])
         self.export_csv(export_df)

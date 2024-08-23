@@ -1,1 +1,4 @@
-key: value
+model_param:
+  svr__C: 10
+  svr__gamma: 'auto'
+  svr__kernel: 'rbf'

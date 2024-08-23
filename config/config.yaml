@@ -30,6 +30,10 @@ feature_selection:
   after_missing_value_imputation: artifacts/missing_value_imputation/after_missing_value_imputation.csv
   selected_data_path: artifacts/feature_selection/after_feature_selection.csv
   
+model_selection:
+  root_dir: artifacts/model_selection
+  after_feature_selection: artifacts/feature_selection/after_feature_selection.csv
+  model_path: artifacts/model_selection/best_svr_model.pkl
   
 
 
