@@ -1,0 +1,799 @@
+price,brand,utility,weight,warranty,display_size,ppi,touch_screen,ram,ssd,graphic,core,hdmi,backlit_keyboard,battery_capacity,pixel_height,processor
+25990.0,Acer,Everyday Use,lite,1.0,small,157,0,8,512,Integrated,2.0,1,0,medium,1080.0,Intel i3 11.0
+34990.0,Wings,Business,medium,1.0,medium,141,0,8,512,Integrated,4.0,1,1,low,1920.0,Intel i5 11.0
+49990.0,MSI,Performance,medium,2.0,medium,141,0,16,512,Integrated,8.0,1,1,medium,1080.0,Intel i5 12.0
+79745.0,Acer,Gaming,heavy,1.0,medium,141,0,8,512,NVIDIA,8.0,1,1,medium,1080.0,Intel i5 13.0
+35990.0,Acer,Performance,medium,1.0,medium,141,0,16,512,Integrated,6.0,1,0,low,1080.0,AMD 5 5.0
+92221.0,HP,Gaming,heavy,1.0,large,137,0,16,1024,NVIDIA,8.0,1,1,high,1080.0,AMD 7 7.0
+45990.0,Wings,Business,lite,1.0,small,157,0,16,512,Integrated,4.0,1,1,low,1920.0,Intel i7 11.0
+37650.0,HP,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,2.0,1,0,low,1080.0,Intel i3 11.0
+49990.0,Asus,Gaming,medium,1.0,large,283,0,8,512,AMD,6.0,1,1,medium,1200.0,AMD 5 5.0
+28990.0,MSI,Performance,lite,1.0,small,157,0,8,512,Integrated,2.0,1,1,medium,1080.0,Intel i3 11.0
+69990.0,Apple,Performance,lite,1.0,small,227,0,8,256,Integrated,8.0,0,1,medium,1600.0,Apple M1 2.0
+55999.0,HP,Gaming,heavy,1.0,medium,141,1,8,512,AMD,6.0,1,1,medium,1080.0,AMD 5 5.0
+85990.0,Asus,Performance,heavy,1.0,medium,141,0,16,1024,NVIDIA,14.0,1,1,very_high,1080.0,Intel i7 12.0
+49990.0,Samsung,Business,medium,1.0,medium,141,0,16,512,Integrated,10.0,1,0,low,1080.0,Intel i5 12.0
+67190.0,Dell,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,12.0,1,1,high,1080.0,Intel i5 12.0
+45990.0,HP,Performance,medium,1.0,medium,141,0,16,512,AMD,6.0,1,1,medium,1080.0,AMD 5 5.0
+34990.0,Acer,Everyday Use,lite,1.0,small,135,0,16,512,Integrated,4.0,1,0,medium,1080.0,Intel i5 11.0
+59990.0,Acer,Performance,heavy,1.0,medium,141,0,16,512,NVIDIA,8.0,1,1,medium,1080.0,Intel i5 12.0
+58990.0,Asus,Performance,medium,1.0,medium,141,0,16,512,Integrated,12.0,1,1,high,1080.0,Intel i5 12.0
+57990.0,Asus,Gaming,heavy,1.0,medium,141,0,8,512,NVIDIA,6.0,1,1,very_high,1080.0,Intel i5 11.0
+62990.0,HP,Gaming,heavy,1.0,large,137,0,16,512,NVIDIA,6.0,1,1,high,1080.0,Intel i5 11.0
+44990.0,Samsung,Business,medium,1.0,medium,141,0,8,512,Integrated,10.0,1,0,low,1080.0,Intel i5 12.0
+41990.0,HP,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,6.0,1,1,low,1080.0,Intel i3 12.0
+79990.0,Acer,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,8.0,1,1,medium,1080.0,Intel i5 13.0
+64990.0,Asus,Performance,medium,1.0,medium,141,0,16,512,Integrated,10.0,1,1,low,1080.0,Intel i7 12.0
+62990.0,Acer,Performance,lite,1.0,small,243,0,16,512,Integrated,12.0,1,1,medium,1800.0,Intel i5 12.0
+59990.0,Lenovo,Performance,medium,1.0,medium,141,0,16,512,Integrated,10.0,1,1,medium,1080.0,Intel i7 12.0
+80980.0,Asus,Gaming,heavy,1.0,medium,141,0,16,1024,NVIDIA,8.0,1,1,very_high,1080.0,Intel i7 11.0
+38490.0,HP,Performance,lite,1.0,small,157,0,8,512,Integrated,8.0,1,0,low,1080.0,Intel i3 13.0
+61990.0,Asus,Everyday Use,medium,1.0,large,283,0,16,512,AMD,8.0,1,1,medium,1200.0,AMD 7 5.0
+37990.0,Infinix,Performance,lite,1.0,small,157,0,16,512,Integrated,10.0,1,1,medium,1080.0,Intel i5 12.0
+148990.0,Lenovo,Gaming,heavy,1.0,large,236,0,32,1024,NVIDIA,14.0,1,1,very_high,2000.0,Intel i9 13.0
+71960.0,HP,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,8.0,1,1,high,1080.0,Intel i5 12.0
+46990.0,Honor,Everyday Use,lite,1.0,small,162,0,16,512,Integrated,8.0,1,1,high,1200.0,Intel i5 12.0
+25990.0,Wings,Business,medium,1.0,medium,141,0,8,256,Integrated,4.0,1,1,low,1920.0,Intel i3 11.0
+49990.0,Acer,Performance,heavy,1.0,medium,141,0,16,512,NVIDIA,8.0,1,1,medium,1080.0,Intel i5 12.0
+63990.0,MSI,Performance,medium,2.0,medium,141,0,16,256,NVIDIA,8.0,1,1,medium,1080.0,Intel i7 11.0
+64990.0,MSI,Gaming,medium,2.0,medium,141,0,16,512,NVIDIA,8.0,1,1,medium,1080.0,Intel i7 11.0
+37516.0,Dell,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,6.0,1,0,low,1080.0,Intel i3 12.0
+53981.0,Asus,Gaming,medium,1.0,large,142,0,16,512,AMD,6.0,1,1,medium,1200.0,AMD 5 5.0
+22980.0,HP,Everyday Use,lite,1.0,small,112,0,8,0,AMD,6.0,1,0,low,768.0,AMD 3045B 7.0
+46990.0,Xiaomi,Everyday Use,medium,1.0,medium,242,0,16,512,Integrated,4.0,1,1,low,2000.0,Intel i5 11.0
+56990.0,Lenovo,Everyday Use,lite,1.0,small,141,0,16,512,Integrated,8.0,1,1,high,1080.0,Intel i5 12.0
+29990.0,Infinix,Performance,lite,1.0,small,157,0,8,512,Integrated,6.0,1,1,medium,1080.0,Intel i3 12.0
+89990.0,Asus,Gaming,heavy,1.0,large,142,0,16,512,NVIDIA,10.0,1,1,high,1200.0,Intel i5 13.0
+55990.0,Asus,Performance,medium,1.0,medium,141,0,8,512,Integrated,12.0,1,1,low,1080.0,Intel i5 12.0
+27990.0,Acer,Performance,medium,1.0,medium,141,0,8,512,Integrated,2.0,1,0,low,1080.0,Intel i3 11.0
+24990.0,Acer,Everyday Use,lite,1.0,small,157,0,8,256,Integrated,2.0,1,0,medium,1080.0,Intel i3 11.0
+32990.0,Acer,Everyday Use,lite,1.0,small,135,0,8,512,Integrated,4.0,1,0,medium,1080.0,Intel i5 11.0
+36850.0,HP,Everyday Use,medium,1.0,medium,100,0,8,512,AMD,6.0,1,0,low,768.0,AMD 5 5.0
+36990.0,Lenovo,Performance,medium,1.0,medium,147,0,8,512,AMD,6.0,1,0,low,1080.0,AMD 5 5.0
+67990.0,Dell,Gaming,heavy,1.0,medium,141,0,8,512,NVIDIA,12.0,1,1,low,1080.0,Intel i5 12.0
+18990.0,Lenovo,Everyday Use,medium,1.0,small,157,0,8,256,AMD,2.0,1,0,low,1080.0,AMD 3045B 7.0
+35980.0,Dell,Everyday Use,medium,1.0,medium,147,0,8,512,Integrated,2.0,1,1,medium,1080.0,Intel i3 11.0
+80990.0,HP,Gaming,heavy,1.0,large,137,0,16,512,NVIDIA,8.0,1,1,high,1080.0,AMD 7 7.0
+53999.0,HP,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,10.0,1,0,low,1080.0,Intel i5 12.0
+58989.0,Lenovo,Everyday Use,medium,1.0,large,141,0,16,512,Integrated,8.0,1,1,high,1080.0,Intel i5 12.0
+126990.0,MSI,Performance,heavy,2.0,medium,141,0,16,1024,NVIDIA,14.0,1,1,medium,1080.0,Intel i9 13.0
+42999.0,Acer,Performance,medium,1.0,medium,141,0,16,512,Integrated,4.0,1,0,low,1080.0,Intel i5 11.0
+84499.0,Dell,Everyday Use,medium,1.0,small,141,0,16,1024,Integrated,12.0,1,1,medium,1200.0,Intel i7 13.0
+30990.0,Infinix,Everyday Use,lite,1.0,small,157,0,8,256,Integrated,2.0,1,1,medium,1080.0,Intel i3 11.0
+74990.0,HP,Performance,medium,1.0,medium,141,0,16,512,Integrated,12.0,1,1,low,1080.0,Intel i5 13.0
+62750.0,HP,Gaming,heavy,1.0,large,137,0,16,512,NVIDIA,6.0,1,1,high,1080.0,Intel i5 11.0
+65990.0,Asus,Gaming,medium,1.0,medium,141,0,16,512,NVIDIA,6.0,1,1,medium,1080.0,AMD 5 5.0
+11990.0,Primebook,Everyday Use,lite,1.0,small,135,0,4,0,Integrated,8.0,0,0,low,768.0,Mediatek MTK8788 1.0
+49990.0,Acer,Gaming,medium,1.0,medium,141,0,16,512,NVIDIA,12.0,1,1,medium,1080.0,Intel i5 12.0
+72990.0,Dell,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,12.0,1,1,high,1080.0,Intel i5 12.0
+29990.0,Asus,Performance,medium,1.0,medium,141,0,8,256,Integrated,2.0,1,1,low,1080.0,Intel i3 11.0
+144990.0,Acer,Performance,heavy,1.0,large,142,0,16,1024,NVIDIA,24.0,1,1,very_high,1200.0,Intel i9 13.0
+109990.0,Asus,Performance,lite,1.0,small,243,0,16,1024,NVIDIA,14.0,1,1,high,1800.0,Intel i9 13.0
+87990.0,HP,Gaming,heavy,1.0,medium,137,0,16,1024,NVIDIA,10.0,1,1,high,1080.0,Intel i7 12.0
+88990.0,Asus,Gaming,heavy,1.0,large,170,0,16,512,NVIDIA,8.0,1,1,high,1080.0,AMD 7 6.0
+56990.0,HP,Gaming,heavy,1.0,medium,141,0,16,512,AMD,6.0,1,1,medium,1080.0,AMD 5 5.0
+48990.0,MSI,Performance,medium,2.0,medium,141,0,16,512,NVIDIA,6.0,1,1,medium,1080.0,Intel i5 11.0
+93050.0,Lenovo,Gaming,heavy,1.0,medium,184,0,16,512,NVIDIA,8.0,1,1,high,1080.0,Intel i5 12.0
+89999.0,Lenovo,Gaming,medium,1.0,medium,184,0,8,512,NVIDIA,8.0,1,1,high,1080.0,Intel i5 13.0
+13990.0,Walker,Performance,medium,1.0,medium,156,0,4,256,Integrated,2.0,1,0,low,1080.0,Intel N4020 3.0
+76990.0,Asus,Performance,heavy,1.0,medium,141,0,8,512,NVIDIA,12.0,1,1,very_high,1080.0,Intel i5 12.0
+23990.0,Lenovo,Performance,medium,1.0,medium,100,0,8,512,AMD,2.0,1,1,low,768.0,AMD 7120U 7.0
+23990.0,Infinix,Everyday Use,lite,1.0,small,157,0,8,512,Integrated,2.0,1,1,medium,1080.0,Intel i3 11.0
+97989.0,Acer,Gaming,heavy,1.0,medium,188,0,16,1024,NVIDIA,10.0,1,1,high,1440.0,Intel i7 12.0
+109990.0,Asus,Performance,heavy,1.0,medium,141,0,16,512,NVIDIA,14.0,1,1,very_high,1080.0,Intel i7 12.0
+47741.0,Asus,Performance,medium,1.0,medium,141,0,8,512,Integrated,10.0,1,1,low,1080.0,Intel i5 12.0
+75990.0,Asus,Performance,medium,1.0,medium,212,0,16,512,Integrated,12.0,1,1,high,1620.0,Intel i5 13.0
+59990.0,MSI,Performance,heavy,1.0,medium,141,0,16,512,AMD,8.0,1,1,medium,1080.0,AMD 7 5.0
+126990.0,Apple,Performance,medium,1.0,medium,224,0,8,256,Integrated,8.0,0,1,high,1864.0,Apple M2 2.0
+23990.0,Infinix,Performance,medium,1.0,medium,141,0,8,512,Integrated,4.0,1,1,low,1080.0,Intel N5100 11.0
+69990.0,Asus,Gaming,medium,1.0,medium,141,0,16,512,NVIDIA,8.0,1,1,medium,1080.0,AMD 7 5.0
+33999.0,Acer,Everyday Use,medium,1.0,medium,141,0,8,512,AMD,4.0,1,0,low,1080.0,AMD 3 7.0
+47990.0,Acer,Gaming,medium,1.0,medium,141,0,12,512,Integrated,10.0,1,1,medium,1080.0,Intel i5 12.0
+59990.0,Xiaomi,Everyday Use,lite,1.0,small,215,0,16,512,Integrated,8.0,1,1,medium,1600.0,Intel i5 12.0
+69990.0,Acer,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,8.0,1,1,high,1080.0,Intel i5 12.0
+37990.0,Infinix,Everyday Use,lite,1.0,small,157,0,16,1024,Integrated,4.0,1,1,medium,1080.0,Intel i5 11.0
+184999.0,Dell,Performance,medium,3.0,medium,145,0,16,512,NVIDIA,6.0,0,1,very_high,1200.0,Intel i7 10.0
+177990.0,Lenovo,Gaming,heavy,1.0,large,236,0,16,1024,NVIDIA,14.0,1,1,very_high,2000.0,Intel i9 13.0
+51487.0,Dell,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,10.0,1,1,low,1080.0,Intel i5 12.0
+94990.0,Asus,Gaming,heavy,1.0,large,142,0,16,1024,NVIDIA,10.0,1,1,high,1200.0,Intel i5 13.0
+25990.0,Ultimus,Performance,lite,1.0,medium,156,0,8,512,Integrated,4.0,1,0,low,1080.0,Intel i5 10.0
+47990.0,Infinix,Performance,lite,1.0,small,157,0,16,512,Integrated,10.0,1,1,medium,1080.0,Intel i7 12.0
+45990.0,MSI,Performance,medium,2.0,medium,141,0,8,512,NVIDIA,6.0,1,1,medium,1080.0,Intel i5 11.0
+55990.0,MSI,Performance,medium,2.0,medium,141,0,16,256,NVIDIA,6.0,1,1,medium,1080.0,Intel i5 11.0
+70500.0,Asus,Everyday Use,lite,1.0,small,162,1,16,1024,AMD,8.0,1,1,high,1200.0,AMD 7 5.0
+65500.0,Asus,Everyday Use,lite,1.0,small,162,1,16,1024,AMD,6.0,1,1,high,1200.0,AMD 5 5.0
+40500.0,Lenovo,Performance,medium,1.0,medium,141,0,4,256,Integrated,4.0,1,0,medium,1080.0,AMD 3 4.0
+90000.0,Lenovo,Business,lite,1.0,small,157,0,16,512,AMD,8.0,1,0,medium,1080.0,AMD 7 4.0
+36990.0,MSI,Performance,medium,1.0,medium,141,0,8,512,Integrated,4.0,1,1,medium,1080.0,Intel i5 11.0
+29990.0,MSI,Performance,medium,1.0,medium,141,0,8,512,Integrated,2.0,1,1,medium,1080.0,Intel i3 11.0
+62990.0,Lenovo,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,6.0,1,1,high,1080.0,AMD 5 6.0
+40990.0,Lenovo,Performance,medium,1.0,medium,157,0,8,512,Integrated,6.0,1,0,low,1080.0,Intel i3 12.0
+34499.0,Lenovo,Performance,medium,1.0,medium,141,0,8,512,AMD,4.0,1,1,low,1080.0,AMD 5 7.0
+38990.0,MSI,Performance,lite,1.0,small,157,0,16,512,Integrated,4.0,1,1,medium,1080.0,Intel i5 11.0
+85990.0,Asus,Performance,heavy,1.0,medium,141,0,16,512,NVIDIA,12.0,1,1,very_high,1080.0,Intel i5 12.0
+66290.0,Lenovo,Performance,medium,1.0,medium,141,0,8,512,AMD,4.0,1,1,low,1080.0,AMD 5 7.0
+67990.0,Lenovo,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,8.0,1,1,high,1080.0,Intel i5 12.0
+42990.0,Asus,Everyday Use,medium,1.0,small,157,0,16,512,Integrated,2.0,1,0,low,1080.0,Intel i3 11.0
+54990.0,Lenovo,Gaming,heavy,1.0,medium,141,0,8,512,NVIDIA,6.0,1,1,high,1080.0,AMD 5 6.0
+52290.0,HP,Everyday Use,medium,1.0,medium,157,0,8,512,AMD,6.0,1,1,low,1080.0,AMD 5 5.0
+109990.0,Asus,Performance,medium,1.0,medium,212,0,16,1024,Integrated,14.0,1,1,high,1620.0,Intel i9 13.0
+48990.0,Honor,Everyday Use,medium,1.0,large,142,0,16,512,Integrated,8.0,1,1,high,1200.0,Intel i5 12.0
+58990.0,Asus,Performance,lite,1.0,small,162,0,16,512,Integrated,12.0,1,1,high,1200.0,Intel i5 12.0
+35990.0,MSI,Performance,lite,1.0,small,157,0,8,512,Integrated,4.0,1,1,medium,1080.0,Intel i5 11.0
+569990.0,MSI,Gaming,heavy,2.0,large,255,0,64,4096,NVIDIA,24.0,1,1,very_high,2160.0,Intel i9 13.0
+34990.0,Acer,Everyday Use,medium,1.0,medium,141,0,8,512,AMD,4.0,1,0,low,1080.0,AMD 5 7.0
+62990.0,Acer,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,8.0,1,1,medium,1080.0,Intel i5 13.0
+322490.0,Apple,Performance,heavy,1.0,large,254,0,32,1024,Integrated,12.0,1,1,very_high,2234.0,Apple M2 2.0
+69990.0,Samsung,Business,lite,1.0,small,157,0,8,512,Integrated,12.0,1,1,high,1080.0,Intel i5 13.0
+57990.0,Lenovo,Gaming,heavy,1.0,medium,141,0,8,512,NVIDIA,4.0,1,1,low,1080.0,AMD 5 5.0
+25999.0,HP,Everyday Use,lite,1.0,small,112,0,8,512,AMD,4.0,1,0,low,768.0,AMD 3 5.0
+34990.0,Honor,Performance,lite,1.0,small,141,0,8,512,AMD,6.0,1,1,medium,1080.0,AMD 5 5.0
+30790.0,Lenovo,Performance,medium,1.0,medium,147,0,8,512,AMD,4.0,1,0,low,1080.0,AMD 3 5.0
+61990.0,Asus,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,6.0,1,1,high,1080.0,Intel i5 11.0
+94990.0,Apple,Performance,lite,1.0,small,224,0,8,256,Integrated,8.0,0,1,medium,1664.0,Apple M2 2.0
+63990.0,Samsung,Performance,medium,1.0,medium,141,0,16,512,Integrated,10.0,0,1,medium,1080.0,Intel i5 12.0
+11990.0,Asus,Performance,lite,1.0,small,135,0,4,0,Integrated,2.0,0,0,medium,768.0,Intel N4020 3.0
+32990.0,Realme,Everyday Use,lite,1.0,small,157,0,8,256,Integrated,2.0,0,1,low,2160.0,Intel i3 11.0
+44690.0,Lenovo,Business,medium,1.0,medium,141,0,8,512,Integrated,5.0,0,1,medium,1080.0,Intel i3 13.0
+36990.0,Acer,Performance,medium,1.0,medium,141,0,16,512,Integrated,2.0,1,0,low,1080.0,Intel i3 11.0
+94990.0,Lenovo,Performance,lite,1.0,small,243,1,16,1024,AMD,8.0,1,1,high,1800.0,AMD 7 7.0
+74990.0,Asus,Performance,lite,1.0,small,323,1,16,512,Integrated,12.0,1,1,high,2400.0,Intel i5 12.0
+57990.0,Acer,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,8.0,1,1,medium,1080.0,Intel i5 12.0
+399999.0,Lenovo,Gaming,heavy,1.0,large,236,0,32,1024,NVIDIA,24.0,1,1,very_high,2000.0,Intel i9 13.0
+34990.0,Lenovo,Performance,medium,1.0,medium,157,0,8,512,Integrated,6.0,1,0,medium,1080.0,Intel i3 12.0
+56340.0,Dell,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,4.0,1,0,medium,1080.0,Intel i5 11.0
+70990.0,Asus,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,8.0,1,1,very_high,1080.0,Intel i7 11.0
+61990.0,Dell,Everyday Use,medium,1.0,medium,141,0,16,512,Integrated,10.0,1,1,medium,1080.0,Intel i5 12.0
+48999.0,Acer,Everyday Use,medium,1.0,medium,141,0,16,512,AMD,4.0,1,0,low,1080.0,AMD 5 7.0
+60990.0,Lenovo,Everyday Use,lite,1.0,small,157,0,16,1024,Integrated,8.0,1,1,high,1080.0,Intel i5 12.0
+27990.0,Wings,Business,medium,1.0,medium,141,0,8,512,Integrated,4.0,1,1,low,1920.0,Intel i3 11.0
+54990.0,MSI,Performance,medium,2.0,medium,141,0,16,256,NVIDIA,6.0,1,1,medium,1080.0,Intel i5 11.0
+23490.0,HP,Everyday Use,medium,1.0,medium,100,0,4,256,AMD,2.0,1,0,low,768.0,AMD 3050U 3.0
+131254.0,HP,Gaming,heavy,1.0,large,141,0,16,1024,NVIDIA,8.0,1,1,low,1080.0,AMD 7 7.0
+51990.0,MSI,Performance,medium,2.0,medium,141,0,16,512,NVIDIA,6.0,1,1,medium,1080.0,Intel i5 12.0
+89999.0,HP,Gaming,heavy,1.0,large,137,0,16,1024,NVIDIA,8.0,1,1,high,1080.0,AMD 7 7.0
+44990.0,Lenovo,Everyday Use,medium,1.0,medium,141,0,16,512,AMD,4.0,1,1,medium,1080.0,AMD 5 7.0
+62990.0,Dell,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,10.0,1,0,low,1080.0,Intel i5 13.0
+114990.0,Lenovo,Gaming,medium,1.0,medium,184,0,16,512,NVIDIA,6.0,1,1,high,1080.0,Intel i7 13.0
+36990.0,Acer,Gaming,medium,1.0,medium,141,0,16,512,Integrated,6.0,1,1,medium,1080.0,Intel i3 12.0
+71989.0,Dell,Everyday Use,medium,1.0,small,141,0,16,1024,Integrated,10.0,1,1,medium,1200.0,Intel i5 13.0
+62990.0,Lenovo,Gaming,heavy,1.0,medium,141,0,8,512,NVIDIA,6.0,1,1,low,1080.0,AMD 5 5.0
+83990.0,HP,Business,medium,1.0,medium,141,1,16,512,Integrated,10.0,1,1,medium,1080.0,Intel i5 12.0
+22490.0,Chuwi,Everyday Use,lite,1.0,small,280,0,8,512,Integrated,2.0,1,0,medium,1200.0,Intel i3 10.0
+42990.0,Dell,Everyday Use,medium,1.0,medium,141,0,8,512,AMD,6.0,1,1,low,1080.0,AMD 5 5.0
+89990.0,Infinix,Performance,medium,1.0,medium,141,0,32,1024,Integrated,14.0,1,1,high,1080.0,Intel i9 13.0
+56000.0,Ninkear,Everyday Use,medium,1.0,large,186,0,32,2048,AMD,8.0,1,1,very_high,1600.0,AMD 7 7.0
+23990.0,Ultimus,Performance,lite,1.0,medium,156,0,8,512,Integrated,2.0,1,0,low,1080.0,Intel i3 10.0
+89990.0,Acer,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,10.0,1,1,high,1080.0,Intel i7 12.0
+12989.0,AXL,Performance,medium,1.0,medium,156,0,4,256,Integrated,2.0,1,0,low,1080.0,Intel N4020 3.0
+34990.0,Infinix,Everyday Use,lite,1.0,small,157,0,16,512,Integrated,4.0,1,1,medium,1080.0,Intel i5 11.0
+36990.0,Acer,Performance,medium,1.0,medium,141,0,8,512,Integrated,6.0,1,0,medium,1080.0,Intel i3 13.0
+43990.0,Xiaomi,Business,lite,1.0,small,243,0,8,512,Integrated,12.0,1,1,low,1800.0,Intel i5 12.0
+89500.0,HP,Everyday Use,lite,1.0,small,157,1,16,512,Integrated,10.0,1,1,low,1080.0,Intel i7 13.0
+64990.0,Acer,Performance,lite,1.0,small,243,0,16,512,Integrated,12.0,1,1,high,1800.0,Intel i5 13.0
+129990.0,Acer,Performance,heavy,1.0,large,142,0,16,1024,NVIDIA,16.0,1,1,very_high,1600.0,Intel i7 13.0
+114990.0,Acer,Performance,heavy,1.0,large,142,0,16,1024,NVIDIA,16.0,1,1,very_high,1200.0,Intel i7 13.0
+99990.0,Acer,Performance,heavy,1.0,large,142,0,16,512,NVIDIA,14.0,1,1,very_high,1200.0,Intel i5 13.0
+44990.0,HP,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,6.0,1,1,low,1080.0,Intel i3 12.0
+72799.0,HP,Gaming,heavy,1.0,medium,137,0,16,512,NVIDIA,8.0,1,1,high,1080.0,Intel i5 12.0
+35990.0,HP,Business,medium,1.0,medium,100,0,8,512,Integrated,2.0,1,0,low,768.0,Intel i3 11.0
+75999.0,HP,Gaming,medium,1.0,medium,137,0,16,512,NVIDIA,8.0,1,1,medium,1080.0,Intel i5 12.0
+69990.0,Asus,Everyday Use,lite,1.0,small,162,1,16,512,AMD,8.0,1,1,medium,1200.0,AMD 7 5.0
+56990.0,Asus,Performance,lite,1.0,small,162,0,8,512,Integrated,12.0,1,1,high,1200.0,Intel i5 12.0
+49990.0,Asus,Performance,medium,1.0,medium,141,0,16,512,AMD,4.0,1,1,low,1080.0,AMD 5 7.0
+32990.0,Acer,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,8.0,1,0,low,1080.0,Intel N305 3.0
+64990.0,Acer,Everyday Use,heavy,1.0,medium,141,0,8,512,NVIDIA,6.0,1,1,high,1080.0,AMD 5 7.0
+44990.0,Asus,Performance,medium,1.0,medium,141,0,16,512,AMD,4.0,1,0,low,1080.0,AMD 5 7.0
+39990.0,Asus,Performance,medium,1.0,medium,141,0,8,512,AMD,4.0,1,1,low,1080.0,AMD 3 7.0
+39990.0,Lenovo,Performance,lite,1.0,small,157,0,8,512,Integrated,6.0,1,1,low,1080.0,Intel i3 12.0
+308990.0,MSI,Gaming,heavy,2.0,large,255,0,32,2048,NVIDIA,14.0,1,1,high,2160.0,Intel i9 12.0
+26990.0,Infinix,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,2.0,1,1,medium,1080.0,Intel i3 10.0
+26990.0,Infinix,Everyday Use,medium,1.0,medium,141,0,8,256,Integrated,2.0,1,1,medium,1080.0,Intel i3 10.0
+37990.0,HP,Performance,medium,1.0,medium,141,0,8,512,Integrated,2.0,1,1,low,1080.0,Intel i3 11.0
+51990.0,HP,Performance,medium,1.0,medium,141,0,8,512,Integrated,4.0,1,1,low,1080.0,Intel i5 11.0
+53990.0,Asus,Gaming,medium,1.0,large,283,0,16,512,AMD,6.0,1,1,medium,1920.0,AMD 5 5.0
+108000.0,Dell,Everyday Use,medium,1.0,small,112,0,8,512,Integrated,10.0,1,1,high,768.0,Intel i5 12.0
+44550.0,Dell,Everyday Use,medium,1.0,medium,147,0,8,512,AMD,4.0,1,0,low,1080.0,AMD 5 7.0
+143000.0,HP,Everyday Use,medium,1.0,large,142,0,16,1024,Integrated,10.0,1,1,medium,1200.0,Intel i7 12.0
+42990.0,Acer,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,6.0,1,1,medium,1080.0,Intel i3 13.0
+354490.0,Dell,Everyday Use,heavy,1.0,large,266,1,32,1024,NVIDIA,14.0,0,1,very_high,2400.0,Intel i9 13.0
+33900.0,Lenovo,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,6.0,1,0,low,1080.0,Intel i3 12.0
+66999.0,HP,Everyday Use,medium,1.0,medium,141,0,16,512,AMD,8.0,1,1,medium,1080.0,AMD 7 7.0
+89990.0,Dell,Everyday Use,medium,1.0,large,138,0,16,512,Integrated,10.0,1,1,medium,1080.0,Intel i7 13.0
+31990.0,Lenovo,Performance,medium,1.0,medium,147,0,8,512,AMD,4.0,1,0,low,1080.0,AMD 3 7.0
+172990.0,Lenovo,Gaming,heavy,1.0,large,184,0,32,1024,NVIDIA,14.0,1,1,medium,1600.0,Intel i7 13.0
+292990.0,MSI,Performance,medium,2.0,large,283,0,32,1024,NVIDIA,14.0,1,1,very_high,2400.0,Intel i9 13.0
+47990.0,Acer,Gaming,heavy,1.0,medium,141,0,8,512,NVIDIA,8.0,1,1,medium,1080.0,Intel i5 12.0
+66150.0,HP,Performance,medium,1.0,medium,141,0,16,512,Integrated,12.0,1,1,low,1080.0,Intel i5 13.0
+131990.0,Asus,Gaming,heavy,1.0,medium,141,0,16,1024,NVIDIA,8.0,1,1,high,1080.0,AMD 9 7.0
+179990.0,Asus,Gaming,heavy,1.0,large,189,0,16,1024,NVIDIA,24.0,1,1,high,1600.0,Intel i9 13.0
+79990.0,Asus,Performance,medium,1.0,large,142,0,16,512,NVIDIA,8.0,1,1,high,1200.0,Intel i5 12.0
+41490.0,HP,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,6.0,1,1,medium,1080.0,Intel i3 12.0
+76990.0,MSI,Performance,heavy,2.0,medium,141,0,16,512,NVIDIA,8.0,1,1,medium,1080.0,Intel i5 12.0
+79990.0,Asus,Performance,lite,1.0,small,162,0,16,512,NVIDIA,12.0,1,1,medium,1200.0,Intel i5 13.0
+87990.0,Asus,Gaming,medium,1.0,large,283,0,16,512,NVIDIA,12.0,1,1,medium,1200.0,Intel i5 13.0
+59519.0,Asus,Gaming,heavy,1.0,large,127,0,8,512,NVIDIA,6.0,1,1,medium,1080.0,Intel i5 11.0
+61990.0,Asus,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,6.0,1,1,medium,1080.0,Intel i5 11.0
+54990.0,HP,Gaming,heavy,1.0,medium,137,0,8,512,NVIDIA,6.0,1,1,medium,1080.0,AMD 5 5.0
+159990.0,Asus,Everyday Use,medium,1.0,large,236,0,16,1024,NVIDIA,14.0,1,1,very_high,2000.0,Intel i9 13.0
+40990.0,Realme,Performance,lite,1.0,small,185,0,8,512,Integrated,4.0,0,1,low,1440.0,Intel i5 11.0
+109990.0,HP,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,14.0,1,1,high,1080.0,Intel i7 13.0
+84000.0,Acer,Everyday Use,heavy,1.0,medium,141,0,16,512,NVIDIA,8.0,1,1,high,1080.0,AMD 7 7.0
+64990.0,Asus,Performance,medium,1.0,medium,141,0,16,512,Integrated,12.0,1,1,medium,1080.0,Intel i5 13.0
+24551.0,Lenovo,Everyday Use,medium,1.0,medium,141,0,8,256,Integrated,2.0,1,0,low,1080.0,Intel N4020 3.0
+40990.0,Honor,Performance,medium,1.0,medium,141,0,16,512,AMD,6.0,1,1,high,1080.0,AMD 5 5.0
+41490.0,HP,Performance,medium,1.0,medium,141,0,8,512,AMD,6.0,1,0,low,1080.0,AMD 5 5.0
+45790.0,HP,Performance,medium,1.0,medium,141,0,8,512,AMD,4.0,1,0,low,1080.0,AMD 5 7.0
+56990.0,HP,Gaming,heavy,1.0,medium,137,0,8,512,AMD,6.0,1,1,medium,1080.0,AMD 5 5.0
+42990.0,HP,Performance,lite,1.0,small,157,0,8,512,Integrated,6.0,1,1,low,1080.0,Intel i3 12.0
+429990.0,Asus,Gaming,heavy,1.0,large,283,0,32,2048,NVIDIA,16.0,1,1,very_high,2400.0,AMD 9 7.0
+30990.0,Acer,Everyday Use,medium,1.0,medium,141,0,8,256,Integrated,8.0,1,0,low,1080.0,Intel N305 3.0
+116990.0,MSI,Performance,heavy,2.0,medium,141,0,16,1024,NVIDIA,10.0,1,1,medium,1080.0,Intel i7 13.0
+67990.0,HP,Gaming,heavy,1.0,medium,137,0,16,512,NVIDIA,8.0,1,1,medium,1080.0,Intel i5 12.0
+89990.0,Samsung,Business,medium,1.0,medium,157,0,16,512,Integrated,10.0,1,1,medium,1080.0,Intel i7 13.0
+76990.0,Samsung,Business,medium,1.0,medium,157,0,16,512,Integrated,10.0,1,1,medium,1080.0,Intel i5 13.0
+42990.0,Asus,Performance,medium,1.0,medium,141,0,8,512,Integrated,10.0,1,1,medium,1080.0,Intel i3 12.0
+154990.0,MSI,Performance,heavy,2.0,large,127,0,16,1024,NVIDIA,14.0,1,1,very_high,1080.0,Intel i7 13.0
+281990.0,Samsung,Business,medium,1.0,large,157,0,32,1024,NVIDIA,14.0,1,1,very_high,1800.0,Intel i9 13.0
+46990.0,Lenovo,Performance,medium,1.0,medium,157,0,16,512,AMD,6.0,1,1,high,1080.0,AMD 5 5.0
+163990.0,Samsung,Everyday Use,medium,1.0,large,212,1,16,512,Integrated,12.0,1,1,very_high,1800.0,Intel i7 13.0
+138990.0,Samsung,Everyday Use,lite,1.0,medium,141,1,16,1024,Integrated,12.0,1,1,high,1080.0,Intel i7 13.0
+109990.0,Samsung,Everyday Use,lite,1.0,small,166,1,16,512,Integrated,10.0,1,1,high,1080.0,Intel i7 13.0
+34000.0,Asus,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,2.0,1,1,low,1080.0,Intel i3 11.0
+12990.0,Primebook,Everyday Use,lite,1.0,small,135,0,4,0,Integrated,8.0,0,0,low,768.0,Mediatek MTK8788 1.0
+56490.0,HP,Gaming,heavy,1.0,medium,137,0,8,512,AMD,6.0,1,1,medium,1080.0,AMD 5 5.0
+67990.0,HP,Business,medium,1.0,medium,141,0,16,512,Integrated,12.0,1,1,low,1080.0,Intel i5 12.0
+199900.0,Apple,Performance,medium,1.0,medium,254,0,16,512,Integrated,10.0,1,1,high,1964.0,Apple M2 2.0
+84844.0,HP,Performance,lite,1.0,small,255,1,16,512,Integrated,10.0,0,1,high,1200.0,Intel i5 12.0
+69000.0,Acer,Everyday Use,heavy,1.0,medium,141,0,16,512,NVIDIA,12.0,1,1,medium,1080.0,Intel i5 12.0
+65439.0,HP,Performance,lite,1.0,small,141,0,16,512,Integrated,10.0,1,1,low,1080.0,Intel i5 12.0
+59990.0,Lenovo,Everyday Use,lite,3.0,small,157,0,8,512,Integrated,10.0,1,1,low,1080.0,Intel i5 12.0
+67990.0,Lenovo,Business,medium,1.0,small,157,0,8,512,Integrated,10.0,1,1,medium,1080.0,Intel i5 12.0
+54990.0,Dell,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,10.0,1,0,low,1080.0,Intel i5 12.0
+62990.0,Asus,Performance,lite,1.0,small,157,1,16,512,Integrated,12.0,1,1,low,1080.0,Intel i5 12.0
+86800.0,MSI,Performance,heavy,2.0,large,191,0,16,1024,NVIDIA,14.0,1,1,medium,1660.0,Intel i7 12.0
+16990.0,Asus,Performance,lite,1.0,small,135,0,4,0,Integrated,2.0,0,1,medium,768.0,Intel N4020 3.0
+86990.0,Asus,Everyday Use,medium,1.0,medium,141,0,16,512,NVIDIA,8.0,1,1,medium,1080.0,Intel i5 12.0
+23990.0,Acer,Everyday Use,lite,1.0,small,112,0,8,256,AMD,2.0,1,0,medium,768.0,AMD 3 3.0
+79990.0,Asus,Everyday Use,medium,1.0,medium,141,0,16,512,NVIDIA,8.0,1,1,medium,1080.0,Intel i5 12.0
+179990.0,Asus,Performance,heavy,1.0,large,283,0,16,1024,NVIDIA,14.0,1,1,very_high,2400.0,Intel i7 12.0
+104990.0,Asus,Gaming,heavy,1.0,medium,141,0,16,1024,NVIDIA,8.0,1,1,high,1080.0,AMD 7 6.0
+55990.0,HP,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,10.0,1,1,medium,1080.0,Intel i5 12.0
+41990.0,HP,Performance,medium,1.0,medium,141,0,8,256,Integrated,2.0,1,0,low,1080.0,Intel i3 11.0
+54990.0,HP,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,10.0,1,1,low,1080.0,Intel i5 12.0
+46199.0,HP,Performance,medium,1.0,medium,141,0,16,512,AMD,6.0,1,1,low,1080.0,AMD 5 5.0
+56690.0,HP,Gaming,heavy,1.0,medium,137,0,8,512,NVIDIA,6.0,1,1,medium,1080.0,AMD 5 5.0
+67536.0,HP,Gaming,heavy,1.0,medium,137,0,8,512,NVIDIA,8.0,1,1,high,1080.0,Intel i5 12.0
+58990.0,Asus,Gaming,heavy,1.0,medium,141,0,8,512,NVIDIA,6.0,1,1,high,1080.0,Intel i5 11.0
+45990.0,Dell,Everyday Use,lite,1.0,small,157,0,8,512,Integrated,4.0,1,0,medium,1920.0,Intel i5 11.0
+52128.0,Acer,Everyday Use,medium,1.0,medium,141,0,8,512,NVIDIA,12.0,1,1,medium,1080.0,Intel i5 12.0
+54990.0,MSI,Gaming,medium,2.0,medium,141,0,8,512,NVIDIA,8.0,1,1,medium,1080.0,Intel i7 11.0
+103060.0,HP,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,12.0,1,1,high,1080.0,Intel i5 13.0
+136990.0,Apple,Performance,lite,1.0,small,227,0,8,512,Integrated,8.0,0,1,high,1600.0,Apple M2 2.0
+118990.0,Apple,Performance,lite,1.0,small,227,0,8,256,Integrated,8.0,0,1,high,1600.0,Apple M2 2.0
+58366.0,HP,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,10.0,1,0,medium,1080.0,Intel i5 12.0
+74990.0,Asus,Performance,medium,1.0,medium,141,0,16,512,Integrated,12.0,1,1,medium,1080.0,Intel i5 12.0
+74990.0,Asus,Performance,lite,1.0,small,243,0,16,512,Integrated,12.0,1,1,high,1800.0,Intel i5 12.0
+56990.0,HP,Performance,lite,1.0,small,157,0,16,512,AMD,6.0,1,1,low,1080.0,AMD 5 5.0
+16990.0,Avita,Performance,lite,1.0,medium,156,0,4,128,Integrated,2.0,1,0,low,1080.0,Intel N4020 3.0
+62990.0,HP,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,12.0,1,1,low,1080.0,Intel i5 12.0
+58990.0,Dell,Everyday Use,medium,1.0,large,142,0,16,512,AMD,6.0,1,1,medium,1200.0,AMD 5 5.0
+51149.0,HP,Performance,lite,1.0,small,157,0,8,512,AMD,6.0,1,1,medium,1080.0,AMD 5 5.0
+88990.0,Asus,Gaming,heavy,1.0,medium,141,0,16,1024,NVIDIA,8.0,1,1,high,1080.0,AMD 7 6.0
+43700.0,HP,Everyday Use,medium,1.0,medium,141,0,8,512,AMD,6.0,1,0,low,1080.0,AMD 5 5.0
+82990.0,Asus,Everyday Use,medium,1.0,medium,141,0,16,1024,NVIDIA,8.0,1,1,medium,1080.0,AMD 7 5.0
+62790.0,Dell,Everyday Use,medium,1.0,medium,141,0,8,256,NVIDIA,4.0,1,0,medium,1080.0,Intel i5 11.0
+45989.0,Xiaomi,Everyday Use,medium,1.0,medium,242,0,8,512,Integrated,4.0,1,1,low,2000.0,Intel i5 11.0
+57990.0,HP,Gaming,medium,1.0,medium,141,0,8,512,NVIDIA,6.0,1,1,medium,1080.0,AMD 5 5.0
+49999.0,Lenovo,Everyday Use,lite,1.0,small,169,1,8,512,Integrated,4.0,0,1,low,1080.0,Intel i5 11.0
+32990.0,Vaio,Performance,medium,2.0,medium,141,0,8,512,AMD,4.0,1,1,low,1080.0,AMD 7 3.0
+65999.0,Dell,Everyday Use,lite,1.0,small,112,0,8,512,Integrated,4.0,1,0,medium,768.0,Intel i5 10.0
+109990.0,Apple,Performance,lite,1.0,small,227,0,8,512,Integrated,8.0,0,1,medium,1600.0,Apple M2 2.0
+100990.0,MSI,Gaming,heavy,2.0,medium,141,0,32,512,NVIDIA,6.0,1,1,medium,1080.0,Intel i7 10.0
+22990.0,Avita,Performance,lite,1.0,small,157,0,8,512,AMD,4.0,1,0,low,1080.0,AMD 5 3.0
+72999.0,Apple,Business,lite,1.0,small,227,0,8,256,Integrated,4.0,0,1,medium,1600.0,Intel i3 10.0
+201498.0,Apple,Business,heavy,1.0,large,226,0,32,2048,Integrated,8.0,0,1,very_high,1920.0,Intel i9 9.0
+90464.0,HP,Performance,lite,3.0,small,157,0,8,512,Integrated,4.0,1,0,medium,1080.0,Intel i5 8.0
+87990.0,Dell,Performance,lite,1.0,small,166,0,8,256,Integrated,4.0,1,0,medium,1080.0,Intel i7 8.0
+84999.0,Dell,Gaming,heavy,1.0,medium,263,0,16,0,NVIDIA,6.0,1,1,high,2160.0,Intel i7 8.0
+99990.0,Lenovo,Performance,lite,1.0,medium,250,0,16,1024,Integrated,14.0,1,1,very_high,1600.0,Intel i7 13.0
+129990.0,Lenovo,Performance,lite,1.0,medium,250,0,16,1024,Integrated,14.0,1,1,very_high,1920.0,Intel i7 13.0
+43890.0,HP,Performance,medium,1.0,medium,141,0,8,512,AMD,4.0,1,1,low,1080.0,AMD 3 7.0
+49800.0,Dell,Everyday Use,medium,1.0,medium,141,0,16,512,AMD,6.0,1,1,low,1080.0,AMD 5 5.0
+74999.0,Dell,Business,medium,1.0,medium,141,0,16,1024,Integrated,10.0,1,0,low,1080.0,Intel i5 13.0
+42990.0,Acer,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,5.0,1,0,medium,1080.0,Intel i3 13.0
+58990.0,Acer,Everyday Use,lite,1.0,small,157,0,16,512,AMD,6.0,1,1,medium,1080.0,AMD 5 7.0
+415000.0,HP,Everyday Use,medium,1.0,large,188,1,16,1024,Integrated,10.0,0,0,very_high,2560.0,Intel i7 12.0
+74990.0,Fujitsu,Everyday Use,lite,2.0,small,166,0,16,512,Integrated,10.0,1,1,medium,1080.0,Intel i5 13.0
+89990.0,Fujitsu,Everyday Use,lite,2.0,small,166,0,16,1024,Integrated,10.0,1,1,medium,1080.0,Intel i7 13.0
+71590.0,Asus,Everyday Use,medium,1.0,medium,141,0,16,1024,AMD,8.0,1,1,medium,1080.0,AMD 7 7.0
+90440.0,Dell,Everyday Use,medium,1.0,small,162,1,8,512,AMD,6.0,1,1,medium,1200.0,AMD 5 7.0
+44990.0,Asus,Performance,medium,1.0,medium,141,0,16,512,Integrated,6.0,1,1,low,1080.0,Intel i3 12.0
+72990.0,Acer,Performance,lite,1.0,small,243,0,16,512,Integrated,12.0,1,1,high,1800.0,Intel i5 13.0
+52850.0,Asus,Performance,medium,1.0,medium,141,0,16,512,Integrated,10.0,1,1,low,1080.0,Intel i5 12.0
+73990.0,HP,Performance,medium,1.0,medium,141,0,16,1024,Integrated,10.0,1,1,low,1080.0,Intel i5 13.0
+84990.0,Asus,Gaming,medium,1.0,medium,141,0,16,512,NVIDIA,8.0,1,1,medium,1080.0,AMD 7 6.0
+65990.0,HP,Gaming,heavy,1.0,medium,141,0,8,512,NVIDIA,6.0,1,1,medium,1080.0,AMD 5 7.0
+111490.0,Lenovo,Performance,lite,1.0,small,243,1,16,512,AMD,12.0,1,1,high,1800.0,Intel i7 13.0
+89990.0,Lenovo,Performance,lite,1.0,small,162,1,16,512,Integrated,10.0,1,1,medium,1200.0,Intel i7 13.0
+60490.0,Lenovo,Everyday Use,medium,1.0,medium,141,0,16,512,Integrated,4.0,1,1,low,1080.0,Intel i7 11.0
+51990.0,HP,Everyday Use,medium,1.0,medium,100,0,8,512,Integrated,10.0,1,0,low,768.0,Intel i5 12.0
+91999.0,Lenovo,Performance,medium,1.0,medium,141,0,16,512,Integrated,10.0,1,1,low,1080.0,Intel i5 12.0
+66389.0,Lenovo,Everyday Use,lite,1.0,small,162,0,16,512,AMD,6.0,1,1,medium,1200.0,AMD 5 7.0
+69990.0,Asus,Everyday Use,medium,1.0,medium,141,0,16,1024,NVIDIA,6.0,1,1,medium,1080.0,AMD 5 5.0
+73990.0,Asus,Everyday Use,medium,1.0,medium,141,0,16,1024,NVIDIA,8.0,1,1,medium,1080.0,AMD 7 5.0
+28490.0,HP,Everyday Use,medium,1.0,medium,100,0,8,512,AMD,2.0,1,0,low,768.0,AMD 3 3.0
+76990.0,Lenovo,Everyday Use,medium,1.0,large,142,0,16,1024,Integrated,12.0,1,1,high,1200.0,Intel i5 13.0
+69450.0,Lenovo,Performance,lite,1.0,small,162,0,16,512,Integrated,8.0,1,1,high,1200.0,Intel i5 13.0
+88990.0,Asus,Performance,medium,1.0,large,142,0,16,1024,NVIDIA,10.0,1,1,medium,1200.0,Intel i7 12.0
+42990.0,Lenovo,Performance,medium,1.0,medium,157,0,8,512,Integrated,6.0,1,0,medium,1080.0,Intel i3 12.0
+84990.0,Gigabyte,Gaming,heavy,2.0,medium,141,0,8,512,NVIDIA,8.0,1,1,high,1080.0,Intel i5 12.0
+43990.0,Lenovo,Business,medium,1.0,medium,141,0,8,512,AMD,4.0,1,0,medium,1080.0,AMD 5 7.0
+63700.0,HP,Gaming,heavy,1.0,medium,141,0,8,512,NVIDIA,6.0,1,1,medium,1080.0,AMD 5 7.0
+36990.0,Dell,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,2.0,1,0,low,1080.0,Intel i3 11.0
+64990.0,Dell,Business,medium,1.0,medium,141,0,8,1024,Integrated,10.0,1,0,low,1080.0,Intel i5 13.0
+90990.0,Asus,Gaming,heavy,1.0,medium,141,0,16,1024,NVIDIA,6.0,1,1,very_high,1080.0,Intel i7 12.0
+78652.0,Lenovo,Performance,lite,1.0,small,157,0,16,512,Integrated,10.0,1,1,medium,1200.0,Intel i5 13.0
+114990.0,Asus,Gaming,medium,1.0,large,283,0,16,512,NVIDIA,10.0,1,1,high,1200.0,Intel i7 12.0
+64800.0,HP,Performance,medium,1.0,small,112,0,8,512,Integrated,10.0,1,1,low,768.0,Intel i5 12.0
+27990.0,Lenovo,Performance,medium,1.0,medium,100,0,8,256,Integrated,2.0,1,0,low,768.0,Intel N4020 4.0
+20990.0,Asus,Performance,medium,1.0,small,157,1,4,64,Integrated,2.0,0,0,medium,1080.0,Intel N4500 3.0
+20990.0,Asus,Performance,medium,1.0,medium,141,0,8,64,Integrated,2.0,0,0,low,1080.0,Intel N4500 3.0
+15990.0,Asus,Performance,medium,1.0,medium,141,0,4,64,Integrated,2.0,0,0,low,1080.0,Intel N4500 3.0
+16990.0,Asus,Performance,medium,1.0,medium,141,0,4,128,Integrated,2.0,0,0,low,1080.0,Intel N4500 3.0
+16990.0,Asus,Performance,lite,1.0,small,157,0,4,128,Integrated,2.0,0,0,medium,1080.0,Intel N4500 3.0
+18990.0,Asus,Performance,lite,1.0,small,157,0,4,64,Integrated,2.0,0,0,medium,1080.0,Intel N4500 3.0
+43990.0,Asus,Performance,medium,1.0,large,142,0,8,512,Integrated,6.0,1,1,low,1200.0,Intel i3 12.0
+94990.0,Gigabyte,Gaming,heavy,2.0,medium,141,0,8,512,NVIDIA,12.0,1,1,medium,1080.0,Intel i5 12.0
+130000.0,Gigabyte,Gaming,heavy,2.0,large,142,0,16,512,NVIDIA,10.0,1,1,medium,1200.0,Intel i7 13.0
+33400.0,HP,Performance,medium,1.0,medium,141,0,8,256,AMD,6.0,1,1,low,1080.0,AMD 5 5.0
+58990.0,Lenovo,Performance,lite,1.0,small,162,1,16,512,Integrated,6.0,1,1,medium,1200.0,Intel i3 13.0
+69990.0,Lenovo,Everyday Use,lite,1.0,small,162,0,16,512,AMD,8.0,1,1,medium,1200.0,AMD 7 7.0
+103000.0,Asus,Gaming,medium,1.0,large,283,0,16,512,NVIDIA,10.0,1,1,high,1200.0,Intel i7 12.0
+86990.0,Fujitsu,Business,lite,2.0,small,162,0,16,512,Integrated,10.0,1,1,high,1200.0,Intel i5 13.0
+63990.0,Lenovo,Everyday Use,lite,1.0,small,162,0,16,512,AMD,8.0,1,1,high,1200.0,AMD 7 7.0
+96990.0,Lenovo,Performance,lite,1.0,small,170,0,16,512,Integrated,12.0,1,1,high,1200.0,Intel i7 13.0
+51990.0,Lenovo,Everyday Use,medium,1.0,medium,157,0,16,512,AMD,4.0,1,0,medium,1080.0,AMD 5 7.0
+48990.0,Lenovo,Everyday Use,medium,1.0,medium,157,0,8,512,AMD,4.0,1,0,medium,1080.0,AMD 5 7.0
+62990.0,HP,Gaming,heavy,1.0,medium,141,0,8,512,NVIDIA,6.0,1,1,medium,1080.0,AMD 5 7.0
+79990.0,Asus,Performance,medium,1.0,large,142,0,16,512,NVIDIA,8.0,1,1,medium,1200.0,Intel i5 12.0
+79990.0,Asus,Performance,medium,1.0,large,142,0,16,512,NVIDIA,8.0,1,1,medium,1200.0,Intel i5 12.0
+94990.0,Asus,Gaming,medium,1.0,large,283,0,16,512,NVIDIA,8.0,1,1,high,1200.0,Intel i5 12.0
+63500.0,MSI,Gaming,medium,2.0,medium,141,0,16,512,NVIDIA,6.0,1,1,medium,1080.0,Intel i5 11.0
+91990.0,MSI,Gaming,heavy,2.0,medium,141,0,16,512,NVIDIA,10.0,1,1,medium,1080.0,Intel i7 12.0
+47750.0,Lenovo,Business,medium,1.0,medium,157,0,8,512,Integrated,6.0,1,1,low,1080.0,Intel i3 12.0
+95790.0,Lenovo,Performance,lite,1.0,small,243,1,16,512,AMD,8.0,1,1,high,1800.0,AMD 7 7.0
+79000.0,Lenovo,Business,medium,3.0,small,112,0,8,512,Integrated,4.0,1,1,medium,1080.0,Intel i5 11.0
+72990.0,Asus,Everyday Use,medium,1.0,medium,141,0,16,512,NVIDIA,6.0,1,1,high,1080.0,AMD 5 5.0
+41990.0,Acer,Performance,medium,1.0,small,112,0,8,512,AMD,6.0,1,0,medium,768.0,AMD 5 5.0
+44990.0,Acer,Performance,medium,1.0,small,112,0,16,512,AMD,6.0,1,0,medium,768.0,AMD 5 5.0
+40990.0,Asus,Performance,medium,1.0,medium,141,0,8,512,Integrated,6.0,1,1,medium,1080.0,Intel i3 12.0
+38990.0,Asus,Performance,lite,1.0,small,141,0,8,512,AMD,4.0,1,1,medium,1080.0,AMD 3 7.0
+44600.0,Lenovo,Business,medium,1.0,small,112,0,8,512,Integrated,4.0,1,0,low,768.0,Intel i5 11.0
+190721.0,HP,Gaming,heavy,1.0,large,182,0,32,1024,NVIDIA,8.0,1,1,very_high,1440.0,AMD 9 7.0
+54990.0,HP,Gaming,medium,1.0,medium,141,0,8,512,AMD,6.0,1,1,medium,1080.0,AMD 5 5.0
+84490.0,Dell,Everyday Use,lite,1.0,small,141,0,16,1024,Integrated,10.0,1,1,medium,1080.0,Intel i7 13.0
+38990.0,Dell,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,2.0,1,0,medium,1080.0,Intel i3 11.0
+109990.0,Fujitsu,Business,lite,2.0,small,162,1,16,1024,Integrated,12.0,1,1,high,1200.0,Intel i7 13.0
+61990.0,Asus,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,6.0,1,1,medium,1080.0,Intel i5 11.0
+57990.0,Asus,Gaming,heavy,1.0,medium,141,0,8,512,NVIDIA,6.0,1,1,medium,1080.0,Intel i5 11.0
+64999.0,HP,Gaming,medium,1.0,medium,141,0,8,512,NVIDIA,6.0,1,1,medium,1080.0,AMD 5 7.0
+52990.0,Lenovo,Performance,medium,1.0,medium,141,0,16,512,AMD,8.0,1,1,low,1080.0,AMD 7 5.0
+176108.0,HP,Everyday Use,heavy,1.0,large,137,0,16,512,NVIDIA,16.0,1,1,very_high,1080.0,Intel i7 13.0
+58850.0,Lenovo,Gaming,heavy,1.0,medium,141,0,8,512,NVIDIA,4.0,1,1,low,1080.0,Intel i5 11.0
+60990.0,Asus,Everyday Use,medium,1.0,medium,141,0,16,512,NVIDIA,6.0,1,1,medium,1080.0,AMD 5 5.0
+49990.0,MSI,Performance,lite,1.0,small,157,0,16,512,Integrated,10.0,1,1,medium,1080.0,Intel i7 12.0
+38990.0,Asus,Performance,lite,1.0,small,141,0,8,512,AMD,4.0,1,1,medium,1080.0,AMD 3 7.0
+249990.0,MSI,Performance,medium,2.0,large,283,0,32,1024,NVIDIA,14.0,1,1,very_high,2400.0,Intel i9 13.0
+44990.0,Acer,Performance,lite,1.0,small,157,0,8,512,Integrated,8.0,1,0,low,1200.0,Intel N305 3.0
+39990.0,Lenovo,Performance,medium,1.0,medium,141,0,8,512,Integrated,2.0,1,0,low,1080.0,Intel i3 11.0
+68990.0,Lenovo,Performance,medium,2.0,small,142,0,16,512,Integrated,8.0,1,1,high,1200.0,Intel i5 13.0
+87490.0,Lenovo,Performance,lite,1.0,small,162,0,16,512,Integrated,10.0,1,1,high,1200.0,Intel i7 13.0
+39399.0,Dell,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,2.0,1,0,low,1080.0,Intel i3 11.0
+45990.0,Dell,Everyday Use,medium,1.0,medium,141,0,8,1024,Integrated,5.0,1,0,low,1080.0,Intel i3 13.0
+49490.0,Dell,Everyday Use,medium,1.0,medium,147,0,8,1024,AMD,4.0,1,0,low,1080.0,AMD 5 7.0
+35990.0,Dell,Everyday Use,medium,1.0,medium,141,0,8,512,AMD,4.0,1,1,low,1080.0,AMD 3 5.0
+98990.0,Dell,Everyday Use,lite,1.0,small,227,0,16,1024,Integrated,12.0,1,1,high,1600.0,Intel i7 13.0
+86990.0,Dell,Everyday Use,lite,1.0,small,227,0,16,1024,Integrated,12.0,1,1,medium,1600.0,Intel i5 13.0
+84990.0,Dell,Everyday Use,lite,1.0,small,162,1,16,1024,Integrated,10.0,1,1,medium,1200.0,Intel i5 13.0
+65290.0,HP,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,6.0,1,1,high,1080.0,AMD 5 5.0
+82990.0,Lenovo,Performance,lite,1.0,small,170,0,16,512,Integrated,12.0,1,1,high,1200.0,Intel i5 13.0
+74990.0,HP,Performance,medium,1.0,medium,141,0,16,1024,Integrated,10.0,1,1,low,1080.0,Intel i5 13.0
+138990.0,MSI,Performance,heavy,2.0,large,127,0,16,1024,NVIDIA,10.0,1,1,medium,1080.0,Intel i7 12.0
+87990.0,MSI,Performance,medium,1.0,medium,141,0,16,512,NVIDIA,10.0,1,1,medium,1080.0,Intel i7 12.0
+94990.0,MSI,Performance,medium,2.0,medium,141,0,16,512,NVIDIA,10.0,1,1,medium,1080.0,Intel i7 12.0
+74990.0,Lenovo,Performance,medium,1.0,large,142,0,16,512,Integrated,12.0,1,1,high,1080.0,Intel i5 13.0
+113990.0,MSI,Performance,heavy,2.0,large,127,0,16,1024,NVIDIA,10.0,1,1,medium,1080.0,Intel i7 12.0
+103990.0,MSI,Performance,heavy,2.0,large,127,0,8,1024,NVIDIA,10.0,1,1,medium,1080.0,Intel i7 12.0
+189990.0,MSI,Performance,heavy,2.0,large,127,0,16,1024,NVIDIA,14.0,1,1,very_high,1080.0,Intel i9 13.0
+134990.0,MSI,Performance,heavy,2.0,large,127,0,8,1024,NVIDIA,14.0,1,1,very_high,1440.0,Intel i7 13.0
+49990.0,MSI,Performance,medium,2.0,medium,141,0,8,512,NVIDIA,6.0,1,1,medium,1080.0,Intel i5 12.0
+38890.0,Lenovo,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,2.0,1,0,medium,1080.0,Intel i3 11.0
+116463.0,HP,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,12.0,1,1,high,1080.0,Intel i5 13.0
+109990.0,HP,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,14.0,1,1,high,1080.0,Intel i7 13.0
+277278.0,HP,Performance,heavy,1.0,large,182,0,32,1024,NVIDIA,24.0,1,1,very_high,1600.0,Intel i9 13.0
+153625.0,HP,Performance,heavy,1.0,large,182,0,16,512,NVIDIA,14.0,1,1,very_high,1080.0,Intel i5 13.0
+56999.0,HP,Gaming,heavy,1.0,medium,137,0,8,512,AMD,6.0,1,1,medium,1080.0,AMD 5 5.0
+149990.0,Gigabyte,Gaming,heavy,2.0,medium,188,0,16,1024,NVIDIA,12.0,1,1,very_high,1440.0,Intel i5 12.0
+78990.0,Lenovo,Performance,lite,1.0,small,170,0,16,512,Integrated,12.0,1,1,high,1200.0,Intel i5 13.0
+58990.0,Lenovo,Everyday Use,lite,1.0,small,162,0,16,512,AMD,6.0,1,1,high,1200.0,AMD 5 7.0
+40990.0,Asus,Performance,medium,1.0,medium,141,0,8,512,Integrated,6.0,1,1,medium,1080.0,Intel i3 12.0
+108274.0,HP,Performance,lite,1.0,small,255,1,16,512,Integrated,10.0,0,1,high,1800.0,Intel i7 12.0
+32999.0,Chuwi,Everyday Use,lite,1.0,medium,280,0,16,512,Integrated,4.0,1,0,high,1080.0,Intel i5 10.0
+101990.0,HP,Gaming,heavy,1.0,large,137,0,16,512,NVIDIA,8.0,1,1,very_high,1080.0,Intel i5 13.0
+231746.0,HP,Business,lite,1.0,small,166,1,16,512,Integrated,10.0,1,1,high,1280.0,Intel i7 13.0
+69990.0,Asus,Gaming,medium,1.0,medium,141,0,16,512,NVIDIA,6.0,1,1,high,1080.0,AMD 5 5.0
+94990.0,Asus,Performance,medium,1.0,large,142,0,16,512,NVIDIA,10.0,1,1,medium,1200.0,Intel i7 12.0
+165601.0,Acer,Performance,heavy,1.0,large,142,0,16,1024,NVIDIA,24.0,1,1,very_high,1600.0,Intel i9 13.0
+85990.0,MSI,Performance,heavy,2.0,medium,141,0,8,512,NVIDIA,10.0,1,1,medium,1080.0,Intel i7 12.0
+76990.0,Asus,Gaming,medium,1.0,medium,141,0,16,512,NVIDIA,8.0,1,1,high,1080.0,AMD 7 5.0
+71990.0,Lenovo,Performance,medium,2.0,small,142,0,16,512,Integrated,8.0,1,1,high,1200.0,Intel i5 13.0
+84990.0,Asus,Performance,lite,1.0,small,243,1,16,512,Integrated,14.0,1,1,high,2400.0,Intel i7 12.0
+37990.0,Asus,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,2.0,1,1,low,1080.0,Intel i3 11.0
+186592.0,HP,Gaming,heavy,1.0,large,189,0,16,512,NVIDIA,16.0,1,1,very_high,1600.0,Intel i7 13.0
+79990.0,HP,Everyday Use,medium,1.0,small,157,1,16,512,Integrated,10.0,1,1,low,1080.0,Intel i5 13.0
+91490.0,Lenovo,Gaming,heavy,1.0,medium,184,0,16,512,NVIDIA,8.0,1,1,high,1080.0,Intel i5 12.0
+97990.0,Lenovo,Gaming,heavy,1.0,medium,184,0,16,512,NVIDIA,8.0,1,1,high,1080.0,Intel i5 12.0
+117574.0,Gigabyte,Performance,heavy,2.0,medium,141,0,8,512,NVIDIA,12.0,1,1,very_high,1080.0,Intel i5 12.0
+59990.0,Asus,Performance,medium,1.0,medium,141,0,16,512,Integrated,10.0,1,1,low,1080.0,Intel i5 12.0
+99990.0,Lenovo,Gaming,heavy,1.0,medium,184,0,16,512,NVIDIA,8.0,1,1,high,1080.0,AMD 7 7.0
+279990.0,MSI,Gaming,heavy,2.0,large,189,0,32,1024,NVIDIA,24.0,1,1,very_high,1600.0,Intel i9 13.0
+344990.0,MSI,Gaming,heavy,2.0,large,178,0,32,2048,NVIDIA,24.0,1,1,very_high,1600.0,Intel i9 13.0
+44990.0,Acer,Performance,medium,1.0,medium,141,0,8,512,NVIDIA,4.0,1,1,low,1080.0,Intel i5 11.0
+60990.0,Lenovo,Everyday Use,lite,1.0,small,157,0,16,512,AMD,6.0,1,1,medium,1080.0,AMD 5 7.0
+23990.0,Asus,Performance,medium,1.0,medium,141,0,4,256,Integrated,2.0,1,0,low,1080.0,Intel N4020 3.0
+128599.0,HP,Gaming,heavy,1.0,large,141,0,16,512,NVIDIA,8.0,1,1,very_high,1080.0,AMD 7 7.0
+138990.0,HP,Performance,heavy,1.0,large,182,0,16,512,NVIDIA,16.0,1,1,very_high,1080.0,Intel i7 13.0
+51147.0,HP,Performance,lite,1.0,small,112,0,8,512,Integrated,2.0,1,0,low,768.0,Intel i3 11.0
+54990.0,Lenovo,Business,lite,1.0,small,166,1,16,256,AMD,4.0,1,1,medium,1080.0,AMD 5 3.0
+52990.0,Infinix,Performance,medium,1.0,medium,141,0,16,1024,Integrated,4.0,1,1,medium,1080.0,Intel i7 11.0
+66990.0,Acer,Gaming,heavy,1.0,medium,141,0,8,512,NVIDIA,8.0,1,1,high,1080.0,Intel i5 12.0
+119888.0,Lenovo,Performance,lite,1.0,small,157,1,16,1024,Integrated,4.0,1,1,high,1080.0,Intel i5 11.0
+23490.0,HP,Everyday Use,medium,1.0,medium,141,0,4,256,AMD,2.0,1,0,low,1080.0,AMD 3050U 3.0
+76889.0,Lenovo,Performance,lite,1.0,small,170,1,16,512,AMD,6.0,1,1,high,1200.0,AMD 5 7.0
+96490.0,Dell,Everyday Use,lite,1.0,small,227,0,16,512,Integrated,12.0,1,1,high,1600.0,Intel i7 13.0
+84490.0,Dell,Everyday Use,lite,1.0,small,227,0,16,512,Integrated,12.0,1,1,high,1600.0,Intel i5 13.0
+256990.0,Dell,Everyday Use,medium,1.0,medium,290,1,16,1024,NVIDIA,14.0,0,1,very_high,2160.0,Intel i7 13.0
+40900.0,Asus,Performance,medium,1.0,medium,141,0,8,512,Integrated,6.0,1,1,medium,1080.0,Intel i3 12.0
+69900.0,Dell,Performance,medium,1.0,medium,141,0,16,512,NVIDIA,4.0,1,1,high,1080.0,Intel i5 11.0
+211199.0,Gigabyte,Gaming,heavy,2.0,large,141,0,16,1024,NVIDIA,14.0,0,1,very_high,2400.0,Intel i7 12.0
+77990.0,MSI,Performance,lite,1.0,small,157,0,16,512,Integrated,12.0,1,1,medium,1080.0,Intel i5 12.0
+199990.0,HP,Performance,heavy,1.0,large,182,0,16,1024,NVIDIA,16.0,1,1,very_high,1600.0,Intel i7 13.0
+85889.0,Lenovo,Performance,medium,2.0,large,142,0,16,512,Integrated,14.0,1,1,high,1200.0,Intel i7 13.0
+55350.0,HP,Performance,medium,1.0,small,157,0,8,512,Integrated,10.0,1,1,low,1080.0,Intel i5 12.0
+453490.0,Dell,Gaming,heavy,1.0,large,229,0,32,2048,NVIDIA,14.0,1,1,very_high,1800.0,Intel i9 13.0
+339990.0,MSI,Performance,heavy,3.0,large,178,0,64,2048,NVIDIA,24.0,1,1,very_high,1600.0,Intel i9 13.0
+67990.0,Dell,Performance,medium,1.0,small,157,0,16,512,AMD,8.0,1,1,medium,1080.0,AMD 7 5.0
+323290.0,Dell,Gaming,heavy,1.0,large,229,0,32,1024,NVIDIA,24.0,1,1,very_high,1800.0,Intel i9 13.0
+199990.0,Dell,Gaming,heavy,1.0,large,216,0,16,1024,NVIDIA,8.0,1,1,very_high,1200.0,AMD 7 7.0
+39990.0,MSI,Performance,medium,1.0,medium,141,0,16,512,Integrated,4.0,1,1,medium,1080.0,Intel i5 11.0
+84990.0,MSI,Performance,lite,2.0,small,170,0,16,512,NVIDIA,12.0,1,1,high,1200.0,Intel i5 12.0
+36990.0,MSI,Performance,medium,1.0,medium,157,0,16,512,Integrated,6.0,1,1,medium,1080.0,Intel i3 12.0
+34990.0,MSI,Performance,medium,1.0,medium,157,0,8,512,Integrated,6.0,1,1,medium,1080.0,Intel i3 12.0
+189999.0,Gigabyte,Gaming,heavy,2.0,large,141,0,16,1024,NVIDIA,14.0,0,1,very_high,2400.0,Intel i7 12.0
+446390.0,Dell,Gaming,heavy,1.0,large,204,0,64,1024,NVIDIA,24.0,1,1,very_high,1800.0,Intel i9 13.0
+73990.0,Lenovo,Performance,lite,3.0,small,170,1,16,512,AMD,6.0,1,1,high,1200.0,AMD 5 7.0
+66500.0,Lenovo,Performance,medium,1.0,small,162,1,16,512,AMD,8.0,1,1,medium,1200.0,AMD 7 5.0
+144990.0,Asus,Gaming,heavy,1.0,large,189,0,16,1024,NVIDIA,14.0,1,1,very_high,1600.0,Intel i7 12.0
+43990.0,HP,Performance,medium,1.0,medium,141,0,16,512,Integrated,6.0,1,0,medium,1080.0,Intel i3 12.0
+70990.0,Asus,Performance,medium,1.0,large,142,0,16,512,NVIDIA,8.0,1,1,medium,1200.0,Intel i5 12.0
+64990.0,Lenovo,Performance,medium,1.0,small,162,1,16,512,AMD,6.0,1,1,medium,1200.0,AMD 5 7.0
+72990.0,Asus,Gaming,medium,1.0,medium,141,0,16,512,NVIDIA,6.0,1,1,medium,1080.0,AMD 5 5.0
+114990.0,Acer,Everyday Use,heavy,1.0,large,142,0,8,512,NVIDIA,8.0,1,1,very_high,1200.0,AMD 7 7.0
+302990.0,Dell,Gaming,heavy,1.0,large,216,0,32,2048,NVIDIA,12.0,1,1,very_high,1200.0,AMD 9 7.0
+129990.0,Acer,Everyday Use,heavy,1.0,large,142,0,16,512,NVIDIA,8.0,1,1,very_high,1200.0,AMD 7 7.0
+57990.0,Acer,Performance,medium,1.0,medium,141,0,16,512,NVIDIA,10.0,1,1,medium,1080.0,Intel i5 13.0
+98999.0,LG,Performance,lite,1.0,small,162,0,16,512,Integrated,12.0,1,1,high,1920.0,Intel i5 13.0
+69990.0,Dell,Performance,lite,1.0,small,157,0,8,512,Integrated,4.0,1,0,low,1080.0,Intel i5 10.0
+79990.0,Fujitsu,Business,lite,2.0,small,162,0,16,512,Integrated,10.0,1,1,high,1200.0,Intel i5 13.0
+79990.0,Fujitsu,Business,lite,2.0,small,162,0,16,512,Integrated,12.0,1,1,high,1200.0,Intel i7 13.0
+126800.0,HP,Everyday Use,heavy,1.0,large,142,0,16,1024,NVIDIA,10.0,1,1,medium,1200.0,Intel i5 12.0
+81900.0,Asus,Gaming,medium,1.0,medium,141,0,16,512,NVIDIA,8.0,1,1,medium,1080.0,AMD 7 5.0
+131684.0,HP,Everyday Use,lite,1.0,small,142,0,16,512,NVIDIA,10.0,1,1,medium,1200.0,Intel i7 12.0
+125900.0,HP,Everyday Use,lite,1.0,small,162,0,16,1024,Integrated,10.0,1,1,medium,1200.0,Intel i7 12.0
+32990.0,HP,Performance,medium,1.0,medium,112,0,8,512,Integrated,4.0,1,0,low,768.0,Intel N6000 3.0
+127790.0,HP,Everyday Use,medium,1.0,large,142,0,16,1024,Integrated,10.0,1,1,medium,1200.0,Intel i7 12.0
+113612.0,HP,Everyday Use,heavy,1.0,large,142,0,16,1024,Integrated,10.0,1,1,medium,1200.0,Intel i5 12.0
+108625.0,HP,Everyday Use,lite,1.0,small,162,0,16,512,Integrated,12.0,1,1,medium,1200.0,Intel i5 12.0
+272709.0,HP,Business,medium,1.0,large,283,0,32,1024,NVIDIA,14.0,0,1,very_high,1080.0,Intel i9 12.0
+233498.0,HP,Business,medium,1.0,large,283,0,32,1024,NVIDIA,14.0,0,1,very_high,2400.0,Intel i9 12.0
+390914.0,HP,Business,medium,1.0,large,283,0,32,1024,NVIDIA,14.0,0,1,very_high,2400.0,Intel i9 12.0
+230593.0,HP,Business,medium,1.0,large,283,0,16,1024,NVIDIA,14.0,0,1,very_high,1200.0,Intel i7 12.0
+128699.0,LG,Performance,lite,1.0,large,189,0,16,1024,Integrated,12.0,1,1,very_high,2560.0,Intel i7 13.0
+278712.0,HP,Business,medium,1.0,large,283,0,16,1024,NVIDIA,14.0,0,1,very_high,2400.0,Intel i7 12.0
+25490.0,Lenovo,Everyday Use,lite,1.0,small,135,0,4,256,Integrated,2.0,1,0,low,768.0,Intel N4020 3.0
+119990.0,Asus,Gaming,lite,1.0,small,216,0,16,512,NVIDIA,8.0,1,1,high,1600.0,AMD 7 6.0
+239761.0,HP,Business,medium,1.0,large,283,0,16,1024,NVIDIA,14.0,0,1,very_high,1200.0,Intel i7 12.0
+152499.0,LG,Performance,lite,1.0,large,189,1,16,1024,Integrated,12.0,0,1,very_high,2560.0,Intel i7 13.0
+78299.0,LG,Performance,medium,1.0,large,142,1,16,512,AMD,6.0,1,1,high,1200.0,AMD 5 7.0
+50990.0,HP,Performance,medium,1.0,medium,100,0,8,256,Integrated,6.0,0,0,medium,768.0,Intel N305 3.0
+56490.0,Lenovo,Business,medium,1.0,medium,134,0,16,512,Integrated,10.0,1,0,low,1080.0,Intel i5 12.0
+69990.0,Acer,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,8.0,1,1,high,1080.0,Intel i5 12.0
+63990.0,Asus,Performance,medium,1.0,medium,141,0,16,512,Integrated,10.0,1,1,low,1080.0,Intel i5 13.0
+114990.0,Asus,Gaming,medium,1.0,large,283,0,16,512,NVIDIA,10.0,1,1,medium,1200.0,Intel i7 12.0
+27490.0,HP,Everyday Use,lite,1.0,medium,100,0,8,512,AMD,2.0,1,0,low,768.0,AMD 3 3.0
+60210.0,Dell,Everyday Use,medium,1.0,small,141,0,8,1024,Integrated,10.0,1,1,medium,1200.0,Intel i5 13.0
+102990.0,HP,Gaming,heavy,1.0,large,182,0,16,512,NVIDIA,8.0,1,1,very_high,1440.0,Intel i5 13.0
+109999.0,HP,Gaming,heavy,1.0,large,182,0,16,512,NVIDIA,8.0,1,1,very_high,1440.0,Intel i5 13.0
+71990.0,Infinix,Performance,medium,1.0,medium,141,0,32,1024,Integrated,14.0,1,1,high,1080.0,Intel i7 13.0
+19990.0,Infinix,Performance,medium,1.0,medium,141,0,4,128,Integrated,4.0,1,1,low,1080.0,Intel N5100 11.0
+56990.0,Lenovo,Everyday Use,lite,2.0,small,157,0,8,512,Integrated,10.0,1,1,low,1080.0,Intel i5 12.0
+23990.0,Lenovo,Performance,lite,1.0,small,135,0,8,256,Integrated,2.0,1,0,low,768.0,Intel N4020 4.0
+57990.0,MSI,Performance,medium,2.0,medium,141,0,16,512,NVIDIA,8.0,1,1,medium,1080.0,Intel i7 11.0
+130800.0,Lenovo,Business,medium,1.0,small,157,0,16,512,NVIDIA,4.0,1,1,medium,1080.0,Intel i7 11.0
+75990.0,MSI,Gaming,medium,2.0,medium,141,0,16,512,NVIDIA,8.0,1,1,medium,1080.0,Intel i5 12.0
+44990.0,Lenovo,Everyday Use,lite,1.0,small,157,0,8,512,AMD,4.0,1,1,low,1200.0,AMD 3 7.0
+94990.0,Asus,Gaming,medium,1.0,large,283,0,16,512,NVIDIA,8.0,1,1,high,1200.0,Intel i5 12.0
+73990.0,Asus,Performance,medium,1.0,medium,141,0,16,512,Integrated,10.0,1,1,medium,1080.0,Intel i5 13.0
+63990.0,Asus,Performance,medium,1.0,medium,141,0,16,512,Integrated,10.0,1,1,low,1080.0,Intel i5 13.0
+57990.0,Lenovo,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,4.0,1,1,medium,1080.0,Intel i5 11.0
+54990.0,Lenovo,Everyday Use,lite,1.0,small,157,0,8,512,AMD,6.0,1,1,low,1200.0,AMD 5 7.0
+87680.0,HP,Performance,heavy,1.0,medium,141,1,16,512,AMD,8.0,1,1,medium,1080.0,AMD 7 7.0
+79490.0,HP,Performance,heavy,1.0,medium,141,1,16,512,AMD,6.0,1,1,medium,1080.0,AMD 5 7.0
+96990.0,HP,Performance,heavy,1.0,medium,141,1,16,512,Integrated,10.0,1,1,medium,1080.0,Intel i5 13.0
+88680.0,HP,Performance,heavy,1.0,medium,141,1,16,512,Integrated,10.0,1,1,medium,1080.0,Intel i5 13.0
+87490.0,HP,Performance,heavy,1.0,medium,141,1,16,512,AMD,6.0,1,1,medium,1080.0,AMD 5 7.0
+44927.0,Lenovo,Performance,medium,1.0,medium,157,0,8,512,Integrated,2.0,1,1,medium,1080.0,Intel i3 11.0
+69990.0,Asus,Performance,lite,1.0,small,243,0,16,512,NVIDIA,8.0,1,1,high,1800.0,Intel i5 12.0
+107767.0,HP,Performance,lite,1.0,small,243,0,16,512,Integrated,14.0,1,1,medium,1800.0,Intel i7 12.0
+38390.0,Dell,Everyday Use,medium,1.0,medium,141,0,8,256,Integrated,2.0,1,0,low,1080.0,Intel i3 11.0
+39990.0,HP,Performance,lite,1.0,small,141,0,8,512,AMD,4.0,1,0,low,1080.0,AMD 3 7.0
+58299.0,Dell,Everyday Use,lite,1.0,small,162,1,8,1024,Integrated,6.0,1,1,medium,1200.0,Intel i3 13.0
+52990.0,HP,Performance,lite,1.0,small,157,0,16,512,AMD,4.0,1,1,medium,1080.0,AMD 5 7.0
+59990.0,Lenovo,Everyday Use,lite,1.0,small,157,0,16,512,AMD,6.0,1,1,low,1080.0,AMD 5 7.0
+59990.0,Lenovo,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,6.0,1,1,medium,1080.0,AMD 5 5.0
+53990.0,Lenovo,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,10.0,1,1,low,1080.0,Intel i5 12.0
+80490.0,HP,Business,lite,1.0,small,189,0,16,512,Integrated,12.0,1,1,medium,1400.0,Intel i5 13.0
+59500.0,Lenovo,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,6.0,1,1,low,1080.0,AMD 5 5.0
+60990.0,Lenovo,Gaming,heavy,1.0,medium,141,0,8,512,NVIDIA,6.0,1,1,medium,1080.0,AMD 5 5.0
+171990.0,MSI,Performance,heavy,2.0,medium,141,0,16,1024,NVIDIA,10.0,1,1,medium,1440.0,Intel i7 13.0
+66990.0,Lenovo,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,6.0,1,1,medium,1080.0,AMD 5 7.0
+115592.0,HP,Business,heavy,1.0,medium,141,0,16,512,NVIDIA,6.0,1,1,medium,1080.0,AMD 5 6.0
+137456.0,HP,Business,heavy,1.0,medium,141,0,32,1024,NVIDIA,6.0,1,1,medium,1080.0,AMD 5 6.0
+52990.0,Lenovo,Performance,lite,1.0,small,157,1,8,512,Integrated,6.0,1,1,medium,1080.0,Intel i3 12.0
+52990.0,HP,Performance,medium,1.0,medium,141,0,16,512,AMD,8.0,1,0,low,1080.0,AMD 7 5.0
+47990.0,HP,Performance,lite,1.0,small,157,0,8,512,Integrated,6.0,1,0,low,1080.0,Intel i3 13.0
+50990.0,Infinix,Performance,medium,1.0,medium,141,0,16,512,Integrated,12.0,1,1,high,1080.0,Intel i5 13.0
+49490.0,HP,Performance,lite,1.0,small,141,0,8,512,AMD,4.0,1,0,low,1080.0,AMD 5 7.0
+52990.0,HP,Performance,lite,1.0,small,141,0,16,512,AMD,4.0,1,0,low,1080.0,AMD 5 7.0
+115990.0,HP,Business,medium,1.0,medium,141,1,16,1024,Integrated,10.0,1,1,medium,1080.0,Intel i7 13.0
+109990.0,HP,Business,medium,1.0,medium,141,1,16,512,Integrated,10.0,1,1,medium,1080.0,Intel i7 13.0
+29990.0,Acer,Everyday Use,lite,1.0,small,112,0,8,256,AMD,4.0,1,0,medium,768.0,AMD 5 3.0
+174990.0,Asus,Gaming,medium,1.0,small,216,0,16,1024,NVIDIA,8.0,1,1,very_high,1600.0,AMD 9 7.0
+62990.0,Asus,Gaming,heavy,1.0,medium,141,0,8,1024,NVIDIA,6.0,1,1,medium,1080.0,Intel i5 11.0
+84980.0,Dell,Everyday Use,lite,1.0,small,141,0,16,512,Integrated,10.0,1,1,medium,1080.0,Intel i7 13.0
+51990.0,Lenovo,Performance,medium,1.0,medium,141,0,8,512,AMD,8.0,1,1,low,1080.0,AMD 7 7.0
+63990.0,Lenovo,Gaming,heavy,1.0,medium,141,0,8,512,NVIDIA,6.0,1,1,low,1080.0,AMD 5 5.0
+139990.0,HP,Business,heavy,1.0,medium,141,0,32,1024,NVIDIA,8.0,1,1,medium,1080.0,AMD 7 6.0
+36990.0,Lenovo,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,2.0,1,0,medium,1080.0,Intel i3 11.0
+92490.0,Dell,Everyday Use,medium,1.0,small,162,1,8,512,Integrated,10.0,1,1,medium,1200.0,Intel i7 12.0
+69990.0,Lenovo,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,8.0,1,1,high,1080.0,Intel i5 12.0
+63990.0,Lenovo,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,4.0,1,1,medium,1080.0,Intel i5 11.0
+47990.0,HP,Performance,lite,1.0,small,141,0,8,512,AMD,4.0,1,0,low,1080.0,AMD 5 7.0
+99990.0,Asus,Gaming,medium,1.0,large,283,0,16,512,NVIDIA,10.0,1,1,high,1200.0,Intel i7 12.0
+111990.0,MSI,Gaming,medium,2.0,medium,141,0,16,512,NVIDIA,10.0,1,1,medium,1080.0,Intel i7 12.0
+92990.0,MSI,Gaming,medium,2.0,medium,141,0,16,512,NVIDIA,8.0,1,1,medium,1080.0,Intel i5 12.0
+67990.0,HP,Everyday Use,medium,1.0,medium,112,0,16,512,Integrated,10.0,1,1,low,1080.0,Intel i5 12.0
+46700.0,Lenovo,Business,medium,1.0,small,157,0,8,512,Integrated,6.0,1,0,low,1080.0,Intel i3 12.0
+48990.0,Dell,Everyday Use,medium,1.0,large,138,0,8,512,Integrated,6.0,1,0,medium,1080.0,Intel i3 12.0
+20890.0,HP,Everyday Use,lite,1.0,medium,100,0,4,256,AMD,2.0,1,0,low,768.0,AMD 3050U 3.0
+61000.0,Lenovo,Business,medium,1.0,small,157,0,8,512,Integrated,6.0,1,0,low,1080.0,Intel i3 12.0
+45499.0,Dell,Everyday Use,medium,1.0,medium,141,0,8,512,AMD,6.0,1,1,low,1080.0,AMD 5 5.0
+62290.0,Dell,Everyday Use,medium,1.0,large,142,0,8,512,AMD,6.0,1,1,medium,1200.0,AMD 5 7.0
+30990.0,Acer,Everyday Use,medium,1.0,medium,141,0,8,512,AMD,4.0,1,0,medium,1080.0,AMD 3 7.0
+30990.0,Acer,Performance,medium,1.0,medium,141,0,8,256,Integrated,8.0,1,0,low,1080.0,Intel N305 3.0
+33990.0,Lenovo,Everyday Use,medium,1.0,medium,157,0,8,512,AMD,4.0,1,0,medium,1080.0,AMD 3 7.0
+58990.0,HP,Performance,lite,1.0,small,157,0,8,512,Integrated,4.0,1,1,low,1080.0,Intel i5 11.0
+199990.0,Razer,Gaming,medium,1.0,small,216,0,32,1024,NVIDIA,8.0,1,1,high,1600.0,AMD 9 7.0
+62990.0,MSI,Everyday Use,heavy,2.0,medium,140,0,16,512,NVIDIA,6.0,1,1,medium,1080.0,AMD 5 7.0
+74990.0,MSI,Everyday Use,heavy,2.0,medium,140,0,16,512,NVIDIA,6.0,1,1,medium,1080.0,AMD 5 7.0
+93490.0,MSI,Everyday Use,heavy,2.0,medium,140,0,16,512,NVIDIA,8.0,1,1,medium,1080.0,AMD 7 7.0
+59990.0,MSI,Everyday Use,heavy,2.0,medium,140,0,8,512,NVIDIA,6.0,1,1,medium,1080.0,AMD 5 7.0
+109990.0,MSI,Performance,heavy,1.0,large,141,0,16,1024,Integrated,8.0,1,1,medium,1080.0,AMD 7 7.0
+109990.0,MSI,Performance,heavy,1.0,medium,141,0,16,1024,Integrated,8.0,1,1,medium,1080.0,AMD 7 7.0
+49990.0,MSI,Performance,medium,2.0,medium,141,0,8,512,NVIDIA,6.0,1,1,medium,1080.0,Intel i5 12.0
+61990.0,MSI,Performance,medium,2.0,medium,141,0,16,512,NVIDIA,8.0,1,1,medium,1080.0,Intel i7 11.0
+50749.0,Asus,Performance,medium,1.0,medium,141,0,8,512,Integrated,10.0,1,1,medium,1080.0,Intel i5 12.0
+100990.0,MSI,Performance,heavy,1.0,medium,141,0,16,1024,Integrated,8.0,1,1,medium,1080.0,AMD 7 7.0
+100990.0,MSI,Performance,heavy,1.0,large,141,0,16,1024,Integrated,8.0,1,1,medium,1080.0,AMD 7 7.0
+84990.0,MSI,Performance,heavy,1.0,medium,141,0,16,512,Integrated,6.0,1,1,medium,1080.0,AMD 5 7.0
+65990.0,HP,Everyday Use,lite,1.0,small,112,0,16,512,Integrated,10.0,1,1,low,768.0,Intel i5 12.0
+80990.0,Dell,Everyday Use,medium,1.0,large,138,0,16,512,NVIDIA,12.0,1,1,medium,1080.0,Intel i5 12.0
+72999.0,HP,Performance,medium,1.0,medium,141,0,16,512,Integrated,12.0,1,1,medium,1080.0,Intel i5 13.0
+110990.0,Lenovo,Business,medium,1.0,small,157,0,16,512,Integrated,12.0,1,1,medium,1200.0,Intel i7 12.0
+60990.0,MSI,Performance,lite,1.0,small,157,0,8,512,Integrated,10.0,1,1,medium,1080.0,Intel i7 12.0
+53990.0,MSI,Performance,lite,1.0,small,157,0,16,512,Integrated,10.0,1,1,medium,1080.0,Intel i7 12.0
+82990.0,MSI,Performance,lite,2.0,small,170,0,8,512,Integrated,12.0,1,1,very_high,1200.0,Intel i5 12.0
+68490.0,MSI,Performance,medium,2.0,medium,141,0,16,512,NVIDIA,6.0,1,1,medium,1080.0,Intel i5 11.0
+52990.0,MSI,Performance,medium,2.0,medium,141,0,8,512,NVIDIA,6.0,1,1,medium,1080.0,Intel i5 11.0
+303490.0,Dell,Everyday Use,heavy,1.0,large,266,1,32,1024,NVIDIA,14.0,0,1,very_high,2400.0,Intel i7 13.0
+201990.0,Dell,Business,lite,1.0,small,164,1,32,1024,Integrated,12.0,0,1,medium,2400.0,Intel i7 13.0
+279490.0,Dell,Everyday Use,medium,1.0,medium,290,1,32,1024,NVIDIA,14.0,0,1,very_high,2160.0,Intel i7 13.0
+286200.0,Lenovo,Gaming,heavy,1.0,large,189,0,32,1024,NVIDIA,24.0,1,1,very_high,1600.0,Intel i9 13.0
+169175.0,Lenovo,Gaming,heavy,1.0,large,189,0,16,1024,NVIDIA,8.0,1,1,very_high,1600.0,AMD 7 7.0
+157544.0,Lenovo,Gaming,heavy,1.0,large,141,0,16,1024,NVIDIA,12.0,1,1,very_high,2000.0,Intel i5 13.0
+75999.0,Lenovo,Business,medium,1.0,small,157,0,8,512,Integrated,10.0,1,1,low,1080.0,Intel i5 12.0
+133000.0,Lenovo,Business,medium,1.0,small,157,0,16,512,Integrated,10.0,1,1,low,1080.0,Intel i7 12.0
+205000.0,LG,Performance,lite,1.0,large,189,1,8,256,Integrated,12.0,0,1,very_high,2560.0,Intel i5 13.0
+142990.0,LG,Performance,lite,1.0,large,189,0,16,1024,Integrated,12.0,1,1,very_high,2560.0,Intel i7 13.0
+146990.0,LG,Performance,lite,1.0,large,147,0,16,1024,Integrated,12.0,1,1,very_high,2560.0,Intel i7 13.0
+89799.0,LG,Performance,medium,1.0,large,142,1,16,512,AMD,8.0,1,1,high,1200.0,AMD 7 7.0
+15990.0,AXL,Performance,medium,1.0,medium,141,0,4,256,Integrated,2.0,1,0,low,1080.0,Intel N4020 3.0
+59990.0,MSI,Performance,lite,1.0,small,157,0,16,512,AMD,8.0,1,1,low,1080.0,AMD 7 7.0
+40890.0,Dell,Everyday Use,medium,1.0,medium,141,0,8,512,AMD,6.0,1,0,low,1080.0,AMD 5 5.0
+37990.0,MSI,Performance,lite,1.0,small,157,0,16,512,Integrated,6.0,1,1,medium,1080.0,Intel i3 12.0
+63990.0,Asus,Performance,lite,1.0,small,162,0,16,512,NVIDIA,8.0,1,1,medium,1200.0,Intel i5 12.0
+35990.0,Lenovo,Performance,medium,1.0,medium,141,0,8,512,AMD,6.0,1,0,low,1080.0,AMD 5 5.0
+41490.0,Lenovo,Performance,medium,1.0,medium,141,0,8,512,AMD,6.0,1,0,low,1080.0,AMD 5 5.0
+53990.0,Asus,Performance,medium,1.0,medium,141,0,8,512,NVIDIA,6.0,1,1,medium,1080.0,AMD 5 5.0
+64990.0,Asus,Performance,medium,1.0,medium,141,0,16,512,NVIDIA,8.0,1,1,medium,1080.0,AMD 7 5.0
+59990.0,HP,Gaming,heavy,1.0,large,137,0,8,512,NVIDIA,6.0,1,1,high,1080.0,Intel i5 11.0
+51990.0,Acer,Performance,heavy,1.0,medium,141,0,16,512,NVIDIA,8.0,1,1,medium,1080.0,Intel i5 12.0
+37990.0,Asus,Everyday Use,medium,1.0,small,157,0,8,512,Integrated,2.0,1,0,low,1080.0,Intel i3 11.0
+31499.0,Lenovo,Performance,medium,1.0,medium,147,0,8,512,AMD,4.0,1,0,low,1080.0,AMD 3 7.0
+35990.0,Asus,Performance,medium,1.0,medium,141,0,8,512,Integrated,2.0,1,1,low,1080.0,Intel i3 11.0
+94990.0,Asus,Performance,medium,1.0,medium,212,0,16,1024,Integrated,12.0,1,1,high,1620.0,Intel i5 13.0
+208990.0,Dell,Gaming,medium,1.0,small,216,0,16,1024,NVIDIA,10.0,1,1,very_high,1600.0,Intel i7 13.0
+36990.0,Lenovo,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,6.0,1,0,low,1080.0,Intel i3 12.0
+74000.0,Lenovo,Performance,lite,3.0,small,157,0,16,512,Integrated,4.0,1,1,low,1080.0,Intel i5 11.0
+31990.0,Lenovo,Performance,medium,1.0,medium,147,0,8,512,AMD,4.0,1,0,low,1080.0,AMD 3 7.0
+51999.0,Lenovo,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,10.0,1,0,low,1080.0,Intel i5 12.0
+49990.0,Lenovo,Everyday Use,lite,1.0,small,157,0,8,512,Integrated,10.0,1,0,low,1080.0,Intel i5 12.0
+36490.0,Lenovo,Everyday Use,lite,1.0,small,157,0,8,512,Integrated,6.0,1,0,low,1080.0,Intel i3 12.0
+57990.0,Acer,Performance,heavy,1.0,medium,141,0,8,512,NVIDIA,8.0,1,1,medium,1080.0,Intel i5 12.0
+35990.0,Lenovo,Performance,medium,1.0,medium,141,0,8,256,Integrated,2.0,1,1,low,1080.0,Intel i3 11.0
+61601.0,Lenovo,Performance,medium,1.0,medium,157,0,16,512,Integrated,4.0,1,1,low,1080.0,Intel i7 11.0
+67990.0,Dell,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,10.0,1,1,low,1080.0,Intel i5 13.0
+59990.0,Lenovo,Performance,medium,1.0,medium,141,0,16,512,AMD,8.0,1,0,low,1080.0,AMD 7 5.0
+44990.0,Acer,Performance,medium,1.0,medium,141,0,8,512,Integrated,4.0,1,0,low,1080.0,Intel i5 11.0
+164990.0,Gigabyte,Performance,lite,2.0,small,243,0,16,1024,NVIDIA,14.0,1,1,high,1800.0,Intel i7 13.0
+304990.0,Dell,Everyday Use,heavy,1.0,medium,141,0,32,1024,NVIDIA,14.0,1,1,very_high,1080.0,Intel i9 12.0
+36490.0,Dell,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,2.0,1,0,high,1080.0,Intel i3 11.0
+44090.0,HP,Performance,medium,1.0,medium,141,0,8,1024,Integrated,6.0,1,0,medium,1080.0,Intel i3 12.0
+41990.0,Lenovo,Everyday Use,medium,1.0,medium,141,0,8,512,AMD,4.0,1,1,medium,1080.0,AMD 5 7.0
+124199.0,LG,Performance,lite,1.0,large,189,0,16,512,Integrated,12.0,1,1,very_high,2560.0,Intel i7 13.0
+59990.0,Lenovo,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,4.0,1,1,medium,1080.0,Intel i5 11.0
+82990.0,Lenovo,Performance,lite,1.0,small,157,1,16,512,Integrated,10.0,1,1,medium,1200.0,Intel i7 12.0
+65990.0,Lenovo,Business,medium,1.0,medium,157,0,8,512,Integrated,10.0,1,1,low,1080.0,Intel i5 12.0
+66990.0,Infinix,Performance,medium,1.0,medium,141,0,16,512,Integrated,14.0,1,1,high,1080.0,Intel i7 13.0
+53990.0,MSI,Performance,medium,2.0,medium,141,0,16,512,NVIDIA,6.0,1,1,medium,1080.0,Intel i5 11.0
+56600.0,HP,Everyday Use,lite,1.0,medium,100,0,8,512,AMD,6.0,1,0,low,768.0,Intel i3 12.0
+127000.0,LG,Performance,lite,1.0,small,162,1,8,512,Integrated,12.0,1,1,high,1920.0,Intel i5 13.0
+80990.0,Dell,Performance,lite,1.0,small,157,0,8,512,Integrated,4.0,1,0,high,1080.0,Intel i5 11.0
+52990.0,Lenovo,Everyday Use,lite,1.0,small,141,0,8,512,Integrated,10.0,1,1,low,1080.0,Intel i5 12.0
+73889.0,Lenovo,Performance,medium,1.0,medium,141,0,16,512,NVIDIA,4.0,1,1,medium,1080.0,Intel i7 3.0
+67999.0,HP,Gaming,heavy,1.0,large,137,0,8,512,NVIDIA,6.0,1,1,high,1080.0,Intel i5 11.0
+173990.0,Dell,Gaming,heavy,1.0,large,141,0,32,1024,NVIDIA,14.0,1,1,very_high,1600.0,Intel i7 13.0
+163790.0,Dell,Gaming,heavy,1.0,large,141,0,16,1024,NVIDIA,14.0,1,1,very_high,1600.0,Intel i7 13.0
+29490.0,HP,Everyday Use,lite,1.0,small,112,0,8,512,Integrated,4.0,1,0,medium,768.0,Intel N6000 3.0
+38889.0,Lenovo,Performance,medium,2.0,medium,141,0,8,512,Integrated,2.0,1,0,low,1080.0,Intel i3 11.0
+34990.0,Acer,Performance,medium,1.0,medium,141,0,8,512,Integrated,6.0,1,0,low,1080.0,Intel i3 12.0
+76490.0,Dell,Everyday Use,lite,1.0,small,162,1,8,512,Integrated,10.0,1,1,medium,1200.0,Intel i5 13.0
+48990.0,Infinix,Everyday Use,lite,1.0,small,157,0,16,512,Integrated,4.0,1,1,medium,1080.0,Intel i7 11.0
+66499.0,Dell,Everyday Use,medium,1.0,medium,141,0,16,512,Integrated,10.0,1,1,low,1080.0,Intel i5 12.0
+72450.0,Dell,Everyday Use,lite,1.0,small,141,0,16,512,Integrated,10.0,1,1,medium,1080.0,Intel i5 13.0
+81989.0,Dell,Everyday Use,lite,1.0,small,141,0,16,512,Integrated,10.0,1,1,medium,1080.0,Intel i7 13.0
+76990.0,HP,Performance,heavy,1.0,medium,141,0,16,512,NVIDIA,8.0,1,1,high,1080.0,AMD 7 5.0
+26990.0,Asus,Performance,medium,1.0,medium,141,0,8,256,Integrated,2.0,1,1,low,1080.0,Intel N4020 3.0
+63990.0,Dell,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,10.0,1,1,low,1080.0,Intel i5 13.0
+47990.0,HP,Business,lite,1.0,small,157,0,8,512,AMD,8.0,1,1,low,1080.0,AMD 7 5.0
+247999.0,MSI,Performance,heavy,3.0,large,178,0,32,1024,NVIDIA,14.0,1,1,very_high,1600.0,Intel i9 13.0
+93990.0,Dell,Everyday Use,heavy,1.0,large,142,1,8,512,Integrated,10.0,1,1,very_high,1200.0,Intel i5 13.0
+43750.0,Dell,Everyday Use,medium,1.0,medium,141,0,8,256,Integrated,2.0,1,0,low,1080.0,Intel i3 11.0
+54990.0,HP,Performance,heavy,1.0,medium,141,0,8,512,AMD,6.0,1,1,high,1080.0,AMD 5 5.0
+68990.0,HP,Everyday Use,medium,1.0,medium,141,0,16,512,Integrated,10.0,1,1,low,1080.0,Intel 1255U 12.0
+35418.0,Lenovo,Everyday Use,lite,1.0,small,157,0,8,512,Integrated,6.0,1,0,low,1080.0,Intel i3 12.0
+89990.0,MSI,Performance,heavy,2.0,medium,141,0,16,1024,NVIDIA,10.0,1,1,medium,1080.0,Intel i7 12.0
+79990.0,MSI,Performance,heavy,2.0,medium,141,0,16,1024,NVIDIA,8.0,1,1,medium,1080.0,Intel i5 12.0
+85990.0,MSI,Performance,heavy,2.0,medium,141,0,8,512,NVIDIA,10.0,1,1,medium,1080.0,Intel i7 12.0
+28990.0,HP,Performance,medium,1.0,medium,112,0,8,512,Integrated,2.0,1,0,low,768.0,Intel N4500 3.0
+48990.0,Acer,Gaming,heavy,1.0,medium,141,0,8,512,NVIDIA,8.0,1,1,medium,1080.0,Intel i5 12.0
+28990.0,Acer,Everyday Use,medium,1.0,small,112,0,8,512,AMD,4.0,1,0,medium,768.0,AMD 5 3.0
+24990.0,Acer,Everyday Use,lite,1.0,small,112,0,8,512,AMD,2.0,1,0,low,768.0,AMD 3 3.0
+107399.0,Acer,Performance,lite,1.0,large,283,0,16,1024,AMD,8.0,1,1,high,2400.0,AMD 7040 7.0
+149490.0,Dell,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,14.0,1,1,very_high,1080.0,Intel i7 13.0
+115490.0,Dell,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,14.0,1,1,high,1080.0,Intel i7 13.0
+117990.0,Dell,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,14.0,1,1,high,1080.0,Intel i7 13.0
+88480.0,Dell,Gaming,heavy,1.0,medium,141,0,8,512,NVIDIA,10.0,1,1,high,1080.0,Intel i5 13.0
+62990.0,Acer,Performance,lite,1.0,small,157,0,16,512,Integrated,10.0,1,1,medium,1080.0,Intel i5 13.0
+58990.0,Acer,Performance,medium,1.0,medium,141,0,16,512,Integrated,10.0,1,1,medium,1080.0,Intel i5 13.0
+49990.0,Acer,Performance,lite,1.0,small,157,0,16,512,Integrated,6.0,1,1,medium,1080.0,Intel i3 13.0
+110000.0,Asus,Gaming,heavy,1.0,medium,141,0,16,1024,NVIDIA,8.0,1,1,very_high,1440.0,AMD 7 6.0
+129990.0,Asus,Performance,heavy,1.0,medium,141,0,16,512,NVIDIA,14.0,1,1,very_high,1080.0,Intel i7 13.0
+197990.0,Asus,Gaming,medium,1.0,small,216,0,32,1024,NVIDIA,8.0,1,1,very_high,1600.0,AMD 9 7.0
+59990.0,Acer,Everyday Use,medium,1.0,small,157,0,8,512,NVIDIA,10.0,1,1,medium,1080.0,Intel i5 13.0
+61999.0,Acer,Everyday Use,medium,1.0,small,157,0,16,512,NVIDIA,10.0,1,1,medium,1080.0,Intel i5 13.0
+225960.0,Asus,Gaming,heavy,1.0,large,170,0,16,1024,NVIDIA,16.0,1,1,very_high,1440.0,AMD 9 7.0
+133990.0,Asus,Performance,heavy,1.0,medium,141,0,16,1024,NVIDIA,14.0,1,1,very_high,1080.0,Intel i7 13.0
+266990.0,Asus,Gaming,medium,1.0,small,216,0,32,1024,NVIDIA,8.0,1,1,very_high,1600.0,AMD 9 7.0
+143690.0,Asus,Gaming,heavy,1.0,large,142,0,16,1024,NVIDIA,10.0,1,1,high,1200.0,Intel i5 13.0
+134990.0,Asus,Gaming,heavy,1.0,large,127,0,16,1024,NVIDIA,8.0,1,1,very_high,1080.0,AMD 9 7.0
+139990.0,ASUS,Performance,heavy,1.0,medium,145,0,16,1024,AMD,8.0,1,1,very_high,1200.0,AMD 9 7.0
+175900.0,Asus,Gaming,lite,1.0,small,225,1,16,1024,NVIDIA,8.0,1,1,very_high,1600.0,AMD 7940HS 7.0
+149990.0,Asus,Gaming,medium,1.0,small,216,0,16,1024,NVIDIA,8.0,1,1,very_high,1600.0,AMD 7 7.0
+209990.0,Asus,Gaming,lite,1.0,small,225,1,16,1024,NVIDIA,14.0,0,1,high,1600.0,Intel i9 13.0
+54990.0,Lenovo,Everyday Use,medium,1.0,medium,141,0,8,512,Integrated,10.0,1,1,low,1080.0,Intel i5 12.0
+63890.0,Asus,Performance,medium,1.0,medium,141,0,16,512,Integrated,6.0,1,1,high,1080.0,AMD 5 7.0
+179990.0,Asus,Gaming,heavy,1.0,large,189,0,16,1024,NVIDIA,14.0,1,1,very_high,1600.0,Intel i9 13.0
+169990.0,Asus,Gaming,heavy,1.0,large,189,0,16,1024,NVIDIA,14.0,1,1,high,1600.0,Intel i9 13.0
+70490.0,Dell,Gaming,heavy,1.0,medium,141,0,8,512,NVIDIA,12.0,1,1,high,1080.0,Intel i5 12.0
+40810.0,Asus,Performance,medium,1.0,medium,141,0,8,512,Integrated,6.0,1,1,medium,1080.0,Intel i3 12.0
+122990.0,Asus,Everyday Use,medium,1.0,medium,141,0,16,512,NVIDIA,12.0,1,1,high,1620.0,Intel i5 13.0
+220490.0,Dell,Gaming,heavy,1.0,large,216,0,16,1024,NVIDIA,16.0,1,1,very_high,1600.0,Intel i7 13.0
+185990.0,Huawei,Business,medium,1.0,large,189,1,16,512,Integrated,12.0,1,1,very_high,1680.0,Intel i5 13.0
+184990.0,Huawei,Everyday Use,lite,1.0,medium,264,1,16,1024,Integrated,12.0,0,1,high,2080.0,Intel i7 13.0
+66990.0,HP,Performance,medium,1.0,medium,141,0,16,512,Integrated,10.0,1,1,low,1080.0,Intel i5 13.0
+72990.0,MSI,Performance,heavy,2.0,medium,141,0,8,512,NVIDIA,8.0,1,1,medium,1080.0,Intel i5 12.0
+77990.0,MSI,Performance,medium,2.0,medium,141,0,16,256,NVIDIA,8.0,1,1,medium,1080.0,Intel i5 12.0
+34990.0,HP,Performance,medium,1.0,medium,141,0,8,512,AMD,2.0,1,0,low,1080.0,AMD 3 3.0
+18990.0,HP,Everyday Use,lite,1.0,small,112,0,8,256,AMD,2.0,1,0,low,768.0,AMD 3050U 3.0
+105990.0,Asus,Performance,medium,1.0,medium,212,0,16,512,Integrated,14.0,1,1,high,1620.0,Intel i7 13.0
+64999.0,HP,Performance,medium,1.0,medium,141,0,8,512,Integrated,10.0,1,0,low,1080.0,Intel i5 13.0
+59990.0,Asus,Performance,medium,1.0,medium,141,0,8,512,Integrated,10.0,1,1,medium,1080.0,Intel i5 13.0
+132199.0,Dell,Gaming,heavy,1.0,medium,141,0,16,1024,NVIDIA,8.0,1,1,very_high,1080.0,AMD 9 6.0
+54990.0,Acer,Everyday Use,lite,1.0,small,157,0,16,512,AMD,6.0,1,1,medium,1080.0,AMD 5 7.0
+234990.0,MSI,Performance,medium,2.0,large,194,0,32,1024,NVIDIA,14.0,1,1,very_high,1600.0,Intel i7 13.0
+77490.0,HP,Performance,medium,1.0,medium,141,0,16,512,Integrated,12.0,1,1,low,1080.0,Intel i7 13.0
+54990.0,HP,Performance,medium,1.0,medium,141,0,8,512,Integrated,10.0,1,1,low,1080.0,Intel i5 12.0
+42990.0,Asus,Everyday Use,medium,1.0,medium,141,0,16,512,Integrated,2.0,1,1,low,1080.0,Intel i3 11.0
+67990.0,Lenovo,Gaming,heavy,1.0,medium,141,0,8,512,NVIDIA,8.0,1,1,medium,1080.0,AMD 7 5.0
+73990.0,Lenovo,Gaming,heavy,1.0,medium,141,0,16,512,NVIDIA,8.0,1,1,low,1080.0,AMD 7 5.0
+367590.0,Dell,Gaming,heavy,1.0,large,204,0,32,1024,NVIDIA,14.0,1,1,very_high,1800.0,Intel i9 13.0
+379990.0,Dell,Gaming,heavy,1.0,large,229,0,32,1024,NVIDIA,14.0,1,1,very_high,1800.0,Intel i9 13.0
+119990.0,Lenovo,Business,lite,3.0,small,157,0,16,512,NVIDIA,4.0,1,1,medium,1080.0,Intel i7 11.0
+40990.0,HP,Performance,medium,1.0,medium,141,0,8,512,Integrated,6.0,1,0,medium,1080.0,Intel i3 12.0
+23490.0,Acer,Everyday Use,lite,1.0,small,135,0,8,256,Integrated,2.0,1,0,low,768.0,Intel N4500 3.0
+62990.0,HP,Performance,medium,1.0,medium,141,0,8,512,Integrated,10.0,1,0,low,1080.0,Intel i5 13.0
+47490.0,HP,Performance,medium,1.0,medium,141,0,8,512,Integrated,6.0,1,0,low,1080.0,Intel i3 13.0
+76990.0,HP,Business,lite,1.0,small,112,0,8,512,Integrated,4.0,1,1,low,768.0,Intel i5 11.0
+67990.0,HP,Performance,medium,1.0,medium,141,0,8,1024,Integrated,10.0,1,0,low,1080.0,Intel i5 13.0
+47490.0,HP,Performance,medium,1.0,medium,141,0,8,512,Integrated,6.0,1,0,low,1080.0,Intel i3 13.0
+87990.0,MSI,Performance,medium,2.0,medium,141,0,16,256,NVIDIA,8.0,1,1,medium,1080.0,Intel i5 12.0
+28990.0,Asus,Everyday Use,medium,1.0,medium,100,0,8,512,Integrated,2.0,1,0,low,768.0,Intel N4020 3.0
+88990.0,Acer,Everyday Use,heavy,1.0,medium,188,0,16,1024,NVIDIA,6.0,1,1,high,1440.0,AMD 5 6.0
+44990.0,Acer,Performance,medium,1.0,medium,141,0,8,512,NVIDIA,4.0,1,0,medium,1080.0,Intel i5 11.0
+36990.0,Asus,Everyday Use,medium,1.0,small,157,0,8,512,Integrated,2.0,1,0,low,1080.0,Intel i3 11.0
+49990.0,Asus,Performance,medium,1.0,medium,141,0,16,512,AMD,4.0,1,1,medium,1080.0,AMD 5 7.0
+124990.0,Asus,Performance,lite,1.0,small,243,1,16,512,Integrated,12.0,1,1,very_high,1800.0,Intel i7 13.0
+62990.0,Asus,Performance,medium,1.0,large,142,0,16,512,Integrated,10.0,1,1,low,1200.0,Intel i5 13.0
+115990.0,Asus,Performance,lite,1.0,small,243,0,16,512,Integrated,12.0,1,1,very_high,1800.0,Intel i7 13.0
+94990.0,Asus,Performance,lite,1.0,small,243,1,16,512,Integrated,12.0,1,1,very_high,1800.0,Intel i5 13.0
+77990.0,Asus,Performance,lite,1.0,small,162,1,16,512,Integrated,10.0,1,1,medium,1200.0,Intel i5 13.0
+89999.0,HP,Business,lite,1.0,small,157,0,16,512,Integrated,10.0,1,1,medium,1080.0,Intel i5 12.0
+125990.0,HP,Gaming,heavy,1.0,large,182,0,16,1024,NVIDIA,8.0,1,1,very_high,1440.0,AMD 7 6.0
+54990.0,MSI,Performance,medium,2.0,medium,141,0,16,512,NVIDIA,6.0,1,1,medium,1080.0,Intel i5 11.0
+58990.0,Asus,Performance,medium,1.0,medium,141,0,8,512,Integrated,10.0,1,1,medium,1080.0,Intel i5 13.0
+60990.0,MSI,Performance,medium,2.0,medium,141,0,16,512,NVIDIA,8.0,1,1,medium,1080.0,Intel i5 12.0
+314490.0,MSI,Performance,heavy,2.0,large,189,0,32,2048,NVIDIA,24.0,1,1,very_high,1600.0,Intel i9 13.0
+56990.0,MSI,Performance,medium,2.0,medium,141,0,16,256,NVIDIA,6.0,1,1,medium,1080.0,Intel i5 11.0
+36990.0,Asus,Performance,lite,1.0,small,157,0,8,512,Integrated,8.0,1,0,low,1080.0,Intel N305 3.0
+59990.0,MSI,Performance,medium,2.0,medium,141,0,8,512,NVIDIA,8.0,1,1,medium,1080.0,Intel i5 12.0
+72990.0,MSI,Performance,heavy,2.0,medium,141,0,16,512,NVIDIA,8.0,1,1,medium,1080.0,Intel i5 12.0
+194990.0,Acer,Gaming,heavy,1.0,large,141,0,32,1024,NVIDIA,16.0,1,1,very_high,1600.0,Intel i7 13.0
+133990.0,Lenovo,Business,lite,3.0,small,157,0,16,512,NVIDIA,12.0,1,1,medium,1080.0,Intel i7 12.0
+88990.0,MSI,Performance,heavy,2.0,medium,141,0,16,512,NVIDIA,10.0,1,1,medium,1080.0,Intel i7 12.0
+160990.0,Lenovo,Everyday Use,heavy,1.0,medium,141,0,32,1024,NVIDIA,14.0,1,0,very_high,1080.0,Intel i7 12.0
+71990.0,MSI,Gaming,heavy,2.0,medium,141,0,8,512,NVIDIA,8.0,1,1,medium,1080.0,Intel i5 12.0
+55990.0,MSI,Performance,medium,2.0,medium,141,0,8,256,NVIDIA,6.0,1,1,medium,1080.0,Intel i5 11.0
+77390.0,Asus,Performance,medium,1.0,medium,141,0,16,1024,Integrated,12.0,1,1,medium,1080.0,Intel i5 13.0
+272900.0,MSI,Performance,heavy,2.0,large,189,0,32,2048,NVIDIA,16.0,1,1,very_high,1600.0,Intel i7 13.0
+62390.0,Asus,Performance,medium,1.0,medium,141,0,16,512,Integrated,10.0,1,1,medium,1080.0,Intel i5 13.0
+79990.0,Samsung,Business,medium,1.0,medium,157,0,16,512,Integrated,10.0,1,1,medium,1080.0,Intel i5 13.0
+130990.0,MSI,Performance,heavy,2.0,medium,141,0,16,1024,NVIDIA,14.0,1,1,very_high,1080.0,Intel i7 13.0
+134990.0,Asus,Performance,lite,1.0,small,243,1,16,1024,Integrated,12.0,1,1,very_high,1800.0,Intel i7 13.0
+104990.0,Asus,Performance,lite,1.0,small,243,1,16,512,Integrated,12.0,1,1,very_high,1800.0,Intel i5 13.0
+70680.0,Asus,Performance,medium,1.0,medium,141,0,16,512,Integrated,12.0,1,1,medium,1080.0,Intel i5 13.0
+45250.0,Asus,Performance,medium,1.0,medium,141,0,8,512,Integrated,8.0,1,1,medium,1080.0,AMD N305 7.0
+119900.0,Asus,Performance,lite,1.0,small,255,0,16,1024,Integrated,10.0,1,1,high,1800.0,Intel i7 13.0
+47990.0,Asus,Performance,medium,1.0,large,142,0,8,512,Integrated,6.0,1,1,medium,1200.0,Intel i3 13.0
+82990.0,Asus,Performance,medium,1.0,medium,141,0,16,512,Integrated,12.0,1,1,high,1080.0,Intel i5 13.0
+63990.0,Asus,Performance,lite,1.0,small,157,0,16,512,Integrated,10.0,1,0,medium,1080.0,Intel i5 13.0
+45999.0,Dell,Everyday Use,medium,1.0,medium,141,0,8,512,AMD,6.0,1,1,low,1080.0,AMD 5 5.0
+59990.0,Asus,Performance,lite,1.0,small,157,0,8,512,Integrated,10.0,1,1,medium,1080.0,Intel i5 13.0
+74990.0,Asus,Performance,medium,1.0,medium,141,0,16,512,Integrated,12.0,1,1,medium,1080.0,Intel i5 13.0
+45990.0,Asus,Performance,lite,1.0,small,157,0,8,512,Integrated,6.0,1,1,medium,1080.0,Intel i3 13.0
+144990.0,Asus,Performance,lite,1.0,small,255,0,32,1024,Integrated,10.0,1,1,high,1800.0,Intel i7 13.0
+92990.0,Asus,Performance,lite,1.0,small,243,0,16,512,Integrated,12.0,1,1,very_high,1800.0,Intel i5 13.0
+112990.0,Asus,Performance,lite,1.0,small,243,0,16,512,Integrated,12.0,1,1,very_high,1800.0,Intel i7 13.0
+99990.0,Asus,Performance,lite,1.0,small,255,0,16,512,Integrated,10.0,1,1,high,1800.0,Intel i5 13.0
+58990.0,Asus,Performance,lite,1.0,small,162,1,8,512,AMD,6.0,1,1,medium,1200.0,AMD 5 5.0
