@@ -8,6 +8,7 @@ tqdm
 PyYAML
 matplotlib
 seaborn
+plotly
 notebook
 statsmodels
 scikit-learn
