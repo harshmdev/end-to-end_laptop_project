@@ -1,6 +1,6 @@
-from laptop_ml.constants import *
-from laptop_ml.utils.common import read_yaml , create_directories
-from laptop_ml.entity import DataGatheringConfig , DataIngestionConfig , DataPreprocessingConfig , DataCleaningConfig , MissingValueImputationConfig, FeatureSelectionConfig, ModelSelectionConfig
+from src.laptop_ml.constants import *
+from src.laptop_ml.utils.common import read_yaml , create_directories
+from src.laptop_ml.entity import DataGatheringConfig , DataIngestionConfig , DataPreprocessingConfig , DataCleaningConfig , MissingValueImputationConfig, FeatureSelectionConfig, ModelSelectionConfig
 
 class ConfigurationManager:
     def __init__(self,

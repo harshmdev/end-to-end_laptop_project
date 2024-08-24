@@ -1,5 +1,5 @@
 import pandas as pd
-from laptop_ml.entity import FeatureSelectionConfig
+from src.laptop_ml.entity import FeatureSelectionConfig
 
 class FeatureSelection:
     def __init__(self, config: FeatureSelectionConfig):

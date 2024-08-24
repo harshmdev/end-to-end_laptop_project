@@ -1,5 +1,5 @@
-from laptop_ml.config.configuration import ConfigurationManager
-from laptop_ml.components.feature_selection import FeatureSelection
+from src.laptop_ml.config.configuration import ConfigurationManager
+from src.laptop_ml.components.feature_selection import FeatureSelection
 
 
 

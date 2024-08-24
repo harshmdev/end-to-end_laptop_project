@@ -1,11 +1,11 @@
-from laptop_ml.logging import logger
-from laptop_ml.pipeline.stage_01_data_gathering import DataGatheringTrainingPipeline
-from laptop_ml.pipeline.stage_02_data_ingestion_pipeline import DataIngestionTrainingPipeline
-from laptop_ml.pipeline.stage_03_data_preprocessing_pipeline import DataPreprocessingPipeline
-from laptop_ml.pipeline.stage_04_data_cleaning import DataCleaningPipeline
-from laptop_ml.pipeline.stage_05_missing_value_imputation import MissingValueImputationPipeline
-from laptop_ml.pipeline.stage_06_feature_selection import FeatureSelectionPipeline
-from laptop_ml.pipeline.stage_07_model_selection import ModelSelectionPipeline
+from src.laptop_ml.logging import logger
+from src.laptop_ml.pipeline.stage_01_data_gathering import DataGatheringTrainingPipeline
+from src.laptop_ml.pipeline.stage_02_data_ingestion_pipeline import DataIngestionTrainingPipeline
+from src.laptop_ml.pipeline.stage_03_data_preprocessing_pipeline import DataPreprocessingPipeline
+from src.laptop_ml.pipeline.stage_04_data_cleaning import DataCleaningPipeline
+from src.laptop_ml.pipeline.stage_05_missing_value_imputation import MissingValueImputationPipeline
+from src.laptop_ml.pipeline.stage_06_feature_selection import FeatureSelectionPipeline
+from src.laptop_ml.pipeline.stage_07_model_selection import ModelSelectionPipeline
 
 STAGE_NAME="Data Gathering"
 

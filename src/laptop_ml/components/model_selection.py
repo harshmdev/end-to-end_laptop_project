@@ -10,7 +10,7 @@ import joblib
 
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_absolute_error
-from laptop_ml.entity import ModelSelectionConfig
+from src.laptop_ml.entity import ModelSelectionConfig
 
 class ModelSelection:
     def __init__(self,config: ModelSelectionConfig) :

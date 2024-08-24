@@ -1,4 +1,4 @@
-from laptop_ml.config.configuration import ConfigurationManager
+from src.laptop_ml.config.configuration import ConfigurationManager
 import joblib
 import numpy as np
 

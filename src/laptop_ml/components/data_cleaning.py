@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from laptop_ml.entity import DataCleaningConfig
+from src.laptop_ml.entity import DataCleaningConfig
 
 class DataCleaning:
     def __init__(self,config: DataCleaningConfig) :

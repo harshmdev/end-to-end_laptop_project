@@ -1,5 +1,5 @@
-from laptop_ml.config.configuration import ConfigurationManager
-from laptop_ml.components.model_selection import ModelSelection
+from src.laptop_ml.config.configuration import ConfigurationManager
+from src.laptop_ml.components.model_selection import ModelSelection
 
 
 

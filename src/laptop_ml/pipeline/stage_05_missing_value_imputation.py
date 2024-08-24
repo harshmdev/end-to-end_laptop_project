@@ -1,5 +1,5 @@
-from laptop_ml.config.configuration import ConfigurationManager
-from laptop_ml.components.missin_value_imputation import MissingValueImputation
+from src.laptop_ml.config.configuration import ConfigurationManager
+from src.laptop_ml.components.missin_value_imputation import MissingValueImputation
 
 
 
