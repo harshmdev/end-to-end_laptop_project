@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from laptop_ml.pipeline.price_prediction import PredictionPipeline
+from src.laptop_ml.pipeline.price_prediction import PredictionPipeline
 
 prediction_pipeline=PredictionPipeline()
 
