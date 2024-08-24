@@ -58,7 +58,6 @@ jupyterlab==4.2.4
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.27.3
 kiwisolver==1.4.5
--e git+https://github.com/harshmdev/end-to-end_laptop_project.git@1168255878c5c9c2e738e42a656b0378ef3050b8#egg=laptop_ml
 lxml==5.3.0
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
