@@ -103,7 +103,7 @@ This project is licensed under the Apache License - see the `LICENSE` file for d
 
 ## Authors
 
-- **Harsh Mohan** - *Initial work* - [Your Profile](https://github.com/your-username)
+- **Harsh Mohan** - *Initial work* - [Git Profile](https://github.com/harshmdev)
 
 ## Acknowledgments
 
