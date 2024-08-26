@@ -131,6 +131,7 @@ ENV/
 laptopnenv/
 env.bak/
 venv.bak/
+.vs/
 
 # Spyder project settings
 .spyderproject
